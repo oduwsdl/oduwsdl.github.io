@@ -4,7 +4,7 @@ String.prototype.toProperCase = function () {
 
 $(document).ready(function(){
 
-    $.get('https://api.github.com/users/oduwsdl/repos?per_page=100', function(data){
+    $.get('https://api.github.com/users/oduwsdl/repos?per_page=100&sort=updated', function(data){
         data.forEach(function(project){
             if(project.name != 'oduwsdl.github.io'){
                 var $item = $("<li>").addClass("repo grid-1");
