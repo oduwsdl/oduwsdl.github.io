@@ -1,0 +1,88 @@
+---
+title: Publications
+landing-title: 'publications'
+image: assets/images/pubs.jpg
+type: not_bibtex
+description: Meet The Members Of WS-DL
+nav-menu: true
+---
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+<!-- Main -->
+<section id="main">
+    <section id="banner" class="style2">
+        <div class="inner">
+                <span class="image">
+                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                </span>
+            <header class="major">
+
+                <h1>{{ page.title }}</h1>
+
+            </header>
+        </div>
+    </section>
+    <!-- Two -->
+    <section id="two" class="spotlightsPub">
+        {% for pubYear in site.data.pubs.years %}
+        <section>
+            <h2 class="pubYear">{{ pubYear }}</h2>
+            <div class="content">
+                <div class="inner">
+                    <article>
+                        <ol>
+                            {% for yearPub in site.data.pubs[pubYear] %}
+                            <li>
+                                <strong>{{ yearPub.authors }}</strong>,&nbsp;
+                                {% if yearPub.link %}
+                                <a href="{{ yearPub.link }}" rel="nofollow">"{{ yearPub.name }}"</a>,&nbsp;
+                                {% else %}
+                                <a href="#" rel="nofollow">"{{ yearPub.name }}"</a>,&nbsp;
+                                {% endif %}
+                                {{ yearPub.where }},&nbsp;
+                                {% if yearPub.bibtex and yearPub.arXiv and yearPub.slides%}
+                                (<a href="{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>,&nbsp;<a
+                                    href="{{ yearPub.arXiv }}"><strong>arXiv</strong></a>,&nbsp;<a
+                                    href="{{ yearPub.slides }}"><strong>slides</strong></a>)
+                                {% elsif yearPub.bibtex and yearPub.arXiv %}
+                                (<a href="{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>,&nbsp;<a
+                                    href="{{ yearPub.arXiv }}"><strong>arXiv</strong></a>)
+                                {% elsif yearPub.bibtex and yearPub.slides %}
+                                (<a href="{{ yearPub.arXiv }}"><strong>BibTeX</strong></a>,&nbsp;<a
+                                    href="{{ yearPub.slides }}"><strong>slides</strong></a>)
+                                {% elsif yearPub.bibtex and yearPub.slides %}
+                                (<a href="{{ yearPub.arXiv }}"><strong>arXiv</strong></a>,&nbsp;<a
+                                    href="{{ yearPub.slides }}"><strong>slides</strong></a>)
+                                {% elsif yearPub.bibtex%}
+                                (<a href="{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>)
+                                {% elsif yearPub.arXiv %}
+                                (<a href="{{ yearPub.arXiv }}"><strong>arXiv</strong></a>)
+                                {% else %}
+                                (<a href="{{ yearPub.slides }}"><strong>slides</strong></a>)
+                                {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ol>
+                    </article>
+                </div>
+            </div>
+        </section>
+        {% endfor %}
+    </section>
+</section>
+{% include footer.html %}
+</body>
+
+</html>

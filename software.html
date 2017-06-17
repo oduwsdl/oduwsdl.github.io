@@ -1,0 +1,54 @@
+---
+title: Software
+landing-title: 'publications'
+description: View The Software We Have Created
+image: assets/images/code2.jpg
+type: not_bibtex
+layout: page
+---
+
+<!-- Two -->
+<section id="main">
+    <section id="banner" class="style2">
+        <div class="inner">
+                <span class="image">
+                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                </span>
+            <header class="major">
+
+                <h1>{{ page.title }}</h1>
+                <p>{{ page.description }}</p>
+            </header>
+        </div>
+    </section>
+    <section id="two">
+        <div class="inner">
+            <ul>
+                {% for repository in site.github.public_repositories %}
+                    <li>
+                        {{ repository.name }} <span class="octicon octicon-clippy"></span><br/>
+                        {{ repository.description }}<br/>
+                        {{ repository.html_url}}<br/>
+                        {{ repository.forks_count}}<br/>
+                        {{ repository.watchers_count}}<br/>
+                        {{ repository.stargazers_count}}<br/>
+                        {{ repository.language}}<br/>
+                        {{ rpository.created_at | truncate: 4 | date: "%Y-%m-%d %H:%M:%S" }}
+                        {{ rpository.updated_at | truncate: 4 | date: "%Y-%m-%d %H:%M:%S" }}
+                        {% for topic in repository.topics %}
+                            {{ topic }}
+                        {% endfor %}
+                        <p>
+                            {% for it in repository %}
+                            {% for it2 in it %}
+                            {{ it }}&nbsp;{{ it2 }}<br/>
+                            {% endfor %}
+                            {% endfor %}
+                        </p>
+                    </li>
+                {% endfor %}
+            </ul>
+
+        </div>
+    </section>
+</section>

@@ -1,0 +1,246 @@
+2017:
+- authors: Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson
+  bibtex: bibtexs/alam-s.html
+  name: Client-side Reconstruction of Composite Mementos Using ServiceWorker
+  where: In Proceedings of the 16th ACM/IEEE-CS Joint Conference on Digital Libraries
+- authors: Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel
+  bibtex: bibtexs/kelly-c.html
+  name: Impact of URI Canonicalization on Memento Count
+  where: In Proceedings of the 16th ACM/IEEE-CS Joint Conference on Digital Libraries
+- authors: John A. Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle
+  bibtex: bibtexs/berlin-w.html
+  name: 'WAIL: Collection-Based Personal Web Archiving'
+  where: In Proceedings of the 16th ACM/IEEE-CS Joint Conference on Digital Libraries
+2016:
+- authors: Sawood Alam, Mat Kelly and Michael L. Nelson
+  bibtex: bibtexs/salam-i.html
+  link: http://dx.doi.org/10.1145/2910896.2925467
+  name: 'InterPlanetary Wayback: The Permanent Web Archive'
+  where: In Proceedings of the 16th ACM/IEEE-CS Joint Conference on Digital Libraries
+- authors: Sawood Alam, Michael L. Nelson, Herbert Van de Sompel, Lyudmila Balakireva, Harihar Shankar and David S. H. Rosenthal
+  bibtex: bibtexs/salam-a.html
+  link: http://dx.doi.org/10.1007/s00799-016-0184-4
+  name: Web Archive Profiling Through CDX Summarization
+  where: International Journal on Digital Libraries, Vol
+- authors: Sawood Alam and Michael L. Nelson
+  bibtex: bibtexs/salam-m.html
+  link: http://dx.doi.org/10.1145/2910896.2925452
+  name: MemGator - A Portable Concurrent Memento Aggregator
+  where: In Proceedings of the 16th ACM/IEEE-CS Joint Conference on Digital Libraries
+- authors: Justin F. Brunelle, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/brunelle-a.html
+  link: http://arxiv.org/abs/1601.05142
+  name: Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants
+  where: Technical report arXiv:1601
+- authors: Mat Kelly, Sawood Alam, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/kelly-t.html
+  name: 'InterPlanetary Wayback: Peer-To-Peer Permanence of Web Archives'
+  where: In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)
+- authors: Justin F. Brunelle, Krista Ferrante, Eliot Wilczek, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/brunelle-d.html
+  link: http://dlib.org/dlib/january16/brunelle/01brunelle.html
+  name: 'Leveraging Heritrix and the Wayback Machine on a Corporate Intranet: A Case Study on Improving Corporate Archives'
+  where: D-Lib Magazine, Vol
+2015:
+- authors: Sawood Alam, Fateh ud din B Mehmood and Michael L. Nelson
+  bibtex: bibtexs/salam-f.html
+  link: http://dx.doi.org/10.1145/2756406.2756926
+  name: Improving Accessibility of Archived Raster Dictionaries of Complex Script Languages
+  where: In Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries
+- authors: Sawood Alam, Michael L. Nelson, Herbert Van de Sompel, Lyudmila Balakireva, Harihar Shankar and David S. H. Rosenthal
+  bibtex: bibtexs/salam-a.html
+  link: http://dx.doi.org/10.1007/978-3-319-24592-8_1
+  name: Web Archive Profiling Through CDX Summarization
+  where: In Proceedings of 19th International Conference on Theory and Practice of Digital Libraries, TPDL 2015 - Research and Advanced Technology for Digital Libraries
+- authors: Sawood Alam, Michael L. Nelson, Herbert Van de Sompel, Lyudmila Balakireva, Harihar Shankar and David S. H. Rosenthal
+  bibtex: bibtexs/salam-a.html
+  link: http://www.ieee-tcdl.org/Bulletin/v11n2/papers/alam.pdf
+  name: Profiling Web Archives for Efficient Memento Query Routing
+  where: Technical report TCDL:11
+- authors: Justin F. Brunelle, Mat Kelly, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/brunelle-i.html
+  link: http://dx.doi.org/10.1007/s00799-015-0140-8
+  name: The Impact of JavaScript on Archivability
+  where: International Journal of Digital Libraries (IJDL), January 2015
+- authors: Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/brunelle-i.html
+  link: http://dx.doi.org/10.1007/s00799-015-0150-6
+  name: 'Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources'
+  where: International Journal of Digital Libraries (IJDL), May 2015
+- authors: Lulwah Alkwai, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/alkwai-j.html
+  link: http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-arabic-sites.pdf
+  name: How Well Are Arabic Websites Archived?
+  where: In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+- authors: Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/jordan-j.html
+  link: http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf
+  name: 'Mobile Mink: Merging Mobile and Desktop Archived Webs'
+  where: In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+- authors: Yasmin Alnoamany, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/alnoamany-t.html
+  name: Characteristics of Social Media Stories
+  where: In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)
+- authors: Mohamed Aturban, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/aturban-t.html
+  link: http://www.cs.odu.edu/~mweigle/papers/aturban-tpdl15.pdf
+  name: Quantifying Orphaned Annotations in Hypothes.is
+  where: In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)
+- authors: Yasmin Alnoamany, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/alnoamany-t.html
+  name: Detecting Off-Topic Pages in Web Archives
+  where: In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)
+2014:
+- authors: Sawood Alam, Charles L. Cartledge and Michael L. Nelson
+  bibtex: bibtexs/salam-h.html
+  link: http://arxiv.org/abs/1405.2330
+  name: Support for Various HTTP Methods on the Web
+  where: Technical report arXiv:1405
+- authors: Sawood Alam, Fateh ud din B Mehmood and Michael L. Nelson
+  bibtex: bibtexs/salam-f.html
+  link: http://arxiv.org/abs/1409.1284
+  name: Improving Accessibility of Archived Raster Dictionaries of Complex Script Languages
+  where: Technical report arXiv:1409
+- authors: Scott G.  Ainsworth, Michael L.  Nelson and Herbert Van de Sompel
+  bibtex: bibtexs/ainsworth-a.html
+  name: A Framework for Evaluation of Composite Memento Temporal Coherence
+  where: Technical report arXiv:1402
+- authors: Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/alnoamany-i.html
+  link: http://dx.doi.org/10.1007/s00799-014-0111-5
+  name: Who and What Links to the Internet Archive
+  where: International Journal of Digital Libraries (IJDL), April 2014
+- authors: Ahmed AlSum, Michele C. Weigle, Michael L. Nelson and Herbert Van de Sompel
+  bibtex: bibtexs/alsum-i.html
+  link: http://dx.doi.org/10.1007/s00799-014-0118-y
+  name: Profiling Web Archive Coverage for Top-Level Domain and Content Language
+  where: International Journal of Digital Libraries (IJDL), June 2014
+- authors: Mat Kelly, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/kelly-d.html
+  link: http://www.cs.odu.edu/~mkelly/posters/2014_digpres_thumbnails.pdf
+  name: Efficient Thumbnail Summarization for Web Archives
+  where: Poster at Digital Preservation 2014, July 2014
+- authors: Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/brunelle-d.html
+  link: http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-brunelle-damage.pdf
+  name: 'Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources'
+  where: In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+- authors: Mat Kelly, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/kelly-d.html
+  link: http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-kelly-mink.pdf
+  name: 'Mink: Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento'
+  where: In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+- authors: Mat Kelly, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/kelly-d.html
+  link: http://www.cs.odu.edu/~mkelly/papers/2014_dl_acid.pdf
+  name: 'The Archival Acid Test: Evaluating Archive Performance on Advanced HTML and JavaScript'
+  where: In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+2013:
+- authors: Sawood Alam
+  bibtex: bibtexs/salam-h.html
+  link: http://ws-dl.blogspot.com/2013/05/2013-05-09-http-mailbox-asynchronous.html
+  name: HTTP Mailbox - Asynchronous RESTful Communication
+  where: August 2013
+- authors: Sawood Alam, Charles L. Cartledge and Michael L. Nelson
+  bibtex: bibtexs/salam-h.html
+  link: http://arxiv.org/abs/1305.1992
+  name: HTTP Mailbox - Asynchronous RESTful Communication
+  where: Technical report arXiv:1305
+- authors: Mat Kelly, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/kelly-p.html
+  link: http://www.slideshare.net/matkelly01/making-enterpriselevel-archive-tools-accessible-for-personal-web-archiving
+  name: Making Enterprise-Level Archive Tools Accessible for Personal Web Archiving Using XAMPP
+  where: Poster and demo presented at Personal Digital Archiving, February 2013
+- authors: Scott G. Ainsworth and Michael L. Nelson
+  bibtex: bibtexs/ainsworth-j.html
+  link: http://dx.doi.org/10.1145/2467696.2467718
+  name: Evaluating Sliding and Sticky Target Policies by Measuring Temporal Drift in Acyclic Walks Through a Web Archive
+  where: In JCDL '13 Proceedings of the 13th ACM/IEEE-CS joint conference on Digital libraries
+- arXiv: http://arxiv.org/abs/1309.4009
+  authors: Yasmin AlNoamany, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/alnoamany-j.html
+  link: http://dx.doi.org/10.1145/2467696.2467722
+  name: Access Patterns for Robots and Humans in Web Archives
+  where: In JCDL '13 Proceedings of the 13th ACM/IEEE-CS joint conference on Digital libraries
+- authors: Mat Kelly, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/kelly-d.html
+  name: 'WARCreate and WAIL: WARC, Wayback, and Heritrix Made Easy'
+  slides: http://www.slideshare.net/matkelly01/digital-preservation-2013
+  where: Presentation and demo at Digital Preservation 2013, July 2013
+- arXiv: http://arxiv.org/abs/1309.4016
+  authors: Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/alnoamany-t.html
+  link: http://dx.doi.org/10.1007/978-3-642-40501-3_35
+  name: Who and What Links to the Internet Archive
+  where: In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)
+- arXiv: http://arxiv.org/abs/1309.4008
+  authors: Ahmed AlSum, Michele C. Weigle, Michael L. Nelson and Herbert Van de Sompel
+  bibtex: bibtexs/alsum-t.html
+  link: http://dx.doi.org/10.1007/978-3-642-40501-3_7
+  name: Profiling Web Archive Coverage for Top-Level Domain and Content Language
+  slides: http://www.slideshare.net/phonedude/profiling-web-archive-coverage-for-toplevel-domain-and-content-language
+  where: In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)
+- arXiv: http://arxiv.org/abs/1307.8067
+  authors: Mat Kelly, Justin Brunelle, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/kelly-t.html
+  link: http://dx.doi.org/10.1007/978-3-642-40501-3_5
+  name: On the Change in Archivability of Websites Over Time
+  slides: http://www.slideshare.net/phonedude/on-the-change-in-archivability-of-websites-over-time
+  where: In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)
+- authors: Mat Kelly, Michael L. Nelson and Michele C. Weigle
+  bibtex: bibtexs/kelly-i.html
+  link: http://www.cs.odu.edu/~mkelly/posters/2013_vis_boxoffice.pdf
+  name: Graph-Based Navigation of a Box Office Prediction System
+  where: In Proceedings of IEEE VIS
+- authors: Michele C. Weigle
+  bibtex: bibtexs/weigle-s.html
+  name: Telling Stories with Web Archives
+  slides: http://www.slideshare.net/mweigle/telling-stories-with-web-archives
+  where: Keynote given at the Southeast Women in Computing Conference, November 2013
+- authors: Mat Kelly, Justin F. Brunelle, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/kelly-d.html
+  link: http://www.dlib.org/dlib/november13/kelly/11kelly.html
+  name: A Method for Identifying Personalized Representations in the Archives
+  where: D-Lib Magazine, Vol
+- authors: Herbert Van de Sompel, Michael Nelson and Robert Sanderson
+  bibtex: bibtexs/rfc7.html
+  name: HTTP Framework for Time-Based Access to Resource States---Memento (IETF RFC 7089)
+  link: https://tools.ietf.org/html/rfc7089
+  where: December 2013
+2012:
+- authors: Mat Kelly and Michele C. Weigle
+  bibtex: bibtexs/kelly-j.html
+  link: http://www.cs.odu.edu/~mweigle/papers/kelly-jcdl12.pdf
+  name: WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo)
+  where: In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+- authors: Kalpesh Padia, Yasmin AlNoamany and Michele C. Weigle
+  bibtex: bibtexs/padia-j.html
+  link: http://www.cs.odu.edu/~mweigle/papers/padia-jcdl12.pdf
+  name: Visualizing Digital Collections at Archive-It
+  slides: http://www.slideshare.net/kallumama24/visualizing-digital-collections-at-archiveit-jcdl-2012
+  where: In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+- authors: Michele C. Weigle
+  bibtex: bibtexs/weigle-g.html
+  name: Information Visualization - Visualizing Digital Collections at Archive-It
+  slides: http://www.slideshare.net/mweigle/information-visualization-visualizing-digital-collections-at-archiveit
+  where: Faculty Lightning Talk given at the Grace Hopper Celebration of Women in Computing, October 2012
+- authors: Michele C. Weigle
+  bibtex: bibtexs/weigle-a.html
+  name: Visualizing Digital Collections at Archive-It
+  slides: http://www.slideshare.net/mweigle/visualizing-digital-collections-at-archiveit
+  where: Talk given at the Archive-It Partners Meeting, December 2012
+2011:
+- authors: Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson
+  bibtex: bibtexs/ainsworth-j.html
+  link: http://www.cs.odu.edu/~mweigle/papers/ainsworth-jcdl11.pdf
+  name: How Much of the Web Is Archived?
+  slides: http://www.slideshare.net/aalsum/jcdl-howmuchisarchived
+  where: In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)
+years:
+  - 2017
+  - 2016
+  - 2015
+  - 2014
+  - 2013
+  - 2012
+  - 2011

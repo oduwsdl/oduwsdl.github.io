@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: WS-DL at ODU-CS
+subtitle: Web Science and Digital Libraries Research Group
+description: > # this means to ignore newlines until "baseurl:"
+  ODU WS-DL is a computer science research laboratory at
+  Old Dominion University in Norfolk, Virginia that specializes
+  in research in web science and digital libraries (per the name),
+  as well as sub-fields of information visualization and digital preservation,
+  among many other related topic areas.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+street_address: 4700 Elkhorn Ave
+city: Norfolk
+state: VA
+zip_code: 23529
+country: United States of America
+twitter_username: WebSciDL
+github_username:  oduwsdl
+repository: oduwsdl/oduwsdl.github.io
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url: https://avatars1.githubusercontent.com/u/4416806?v=3&s=500
+blog_url: http://ws-dl.blogspot.com/
+github_url: https://github.com/oduwsdl
+twitter_url: https://twitter.com/WebSciDL
+
+collections:
+  bibtexs:
+    output: true
+    permalink: /:collection/:name
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+gems:
+  - jekyll-feed
+  - jekyll-github-metadata
+exclude:
+  - original
+  - Gemfile
+  - Gemfile.lock

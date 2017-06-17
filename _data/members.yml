@@ -1,0 +1,164 @@
+faculty:
+  - who: Dr. Michael L. Nelson
+    homepage: http://www.cs.odu.edu/~mln
+    twitter: http://twitter.com/phonedude_mln
+    gscholar: http://scholar.google.com/citations?user=oWQaPnwAAAAJ
+    github: https://github.com/phonedude
+  - who: Dr. Michele C. Weigle
+    homepage: http://www.cs.odu.edu/~mweigle
+    twitter: http://twitter.com/weiglemc
+    gscholar: http://scholar.google.com/citations?user=MOLPTqcAAAAJ
+    github: https://github.com/weiglemc
+phds:
+  - who: Scott G. Ainsworth
+    homepage: http://www.cs.odu.edu/~sainswor
+    twitter: http://twitter.com/Galsondor
+    gscholar: http://scholar.google.com/citations?user=kPMkdxwAAAAJ
+    github: https://github.com/orgs/oduwsdl/people/galsondor
+  - who: Sawood Alam
+    homepage: http://www.cs.odu.edu/~salam/
+    twitter: http://twitter.com/ibnesayeed
+    gscholar: http://scholar.google.com/citations?user=zXdbEQgAAAAJ
+    github: https://github.com/orgs/oduwsdl/people/ibnesayeed
+  - who: Luwah Alkwai
+    homepage: http://www.cs.odu.edu/~lalkwai/
+    twitter: http://twitter.com/LulwahMA
+    gscholar: https://scholar.google.com/citations?user=EnQF73AAAAAJ
+    github: https://github.com/orgs/oduwsdl/people/LulwahAlkwai
+  - who: Mohamed Aturban
+    homepage: http://www.cs.odu.edu/~maturban/
+    twitter: http://twitter.com/maturban1
+    gscholar: https://scholar.google.com/citations?user=XdGvjXEAAAAJ
+    github: https://github.com/orgs/oduwsdl/people/maturban
+  - who: Shawn M. Jones
+    homepage: http://www.cs.odu.edu/~sjone/
+    twitter: http://twitter.com/shawnmjones
+    gscholar: http://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en
+    github: https://github.com/orgs/oduwsdl/people/shawnmjones
+  - who: Mat Kelly
+    homepage: http://www.cs.odu.edu/~mkelly
+    twitter: http://twitter.com/machawk1
+    gscholar: http://scholar.google.com/citations?user=ehg7mloAAAAJ&hl=en
+    github: https://github.com/orgs/oduwsdl/people/machawk1
+  - who: Corren McCoy
+    twitter: http://twitter.com/CorrenMcCoy
+    github: https://github.com/orgs/oduwsdl/people/correnm
+  - who: Alexander Nwala
+    homepage: http://www.cs.odu.edu/~anwala/
+    twitter: http://twitter.com/acnwala
+    gscholar: https://scholar.google.com/citations?user=LqrUey4AAAAJ
+    github: https://github.com/orgs/oduwsdl/people/anwala
+ms:
+  - who: John Berlin
+    homepage: http://www.cs.odu.edu/~jberlin/
+    twitter: https://twitter.com/johnaberlin
+    github: https://github.com/orgs/oduwsdl/people/N0taN3rd
+phdAlum:
+  - gscholar: http://scholar.google.com/citations?user=bRlYmNcAAAAJ
+    homepage: http://www.cs.odu.edu/~yasmin/
+    dissertation: Using Web Archives to Enrich the Live Web Experience Through Storytelling
+    twitter: http://twitter.com/yasmina_anwar
+    who: Yasmin AlNoamany
+    year: 2016
+    github: https://github.com/orgs/oduwsdl/people/yasmina85
+    wrapUpBlog: http://ws-dl.blogspot.com/2016/09/2016-09-20-promising-scene-at-end-of.html
+  - gscholar: http://scholar.google.com/citations?user=O_Fdci8AAAAJ
+    homepage: http://www.cs.odu.edu/~jbrunelle/
+    dissertation: 'Scripts in a Frame: A Two-Tiered Approach for Archiving Deferred Representations'
+    twitter: http://twitter.com/justinfbrunelle
+    who: Justin F. Brunelle
+    wrapUpBlog: http://ws-dl.blogspot.com/2016/04/2016-04-15-how-i-learned-not-to-work.html
+    year: 2016
+    github: https://github.com/orgs/oduwsdl/people/jbrunelle
+  - gscholar: http://scholar.google.com/citations?hl=en&user=XpmZBggAAAAJ
+    homepage: http://www.cs.odu.edu/~hany
+    dissertation: Detecting, Modeling, and Predicting User Temporal Intention in Social Media
+    twitter: http://twitter.com/hanysalaheldeen
+    who: Hany SalahEldeen
+    wrapUpBlog: http://ws-dl.blogspot.com/2015/05/2015-05-29-call-me-dr-salaheldeen.html
+    year: 2015
+    github: https://github.com/orgs/oduwsdl/people/HanySalahEldeen
+  - gscholar: https://scholar.google.com/citations?user=pXj9Dk4AAAAJ&hl=en&hl=en
+    homepage: http://www.cs.odu.edu/~ccartled/
+    dissertation: A Framework for Web Object Self-Preservation
+    twitter: https://twitter.com/simplesimon2013
+    who: Chuck Cartledge
+    wrapUpBlog: http://ws-dl.blogspot.com/2014/09/a-long-and-tortuous-trail-to-phd.html
+    year: 2014
+  - gscholar: http://scholar.google.com/citations?user=BrxQC4MAAAAJ&hl=en
+    homepage: http://www.cs.odu.edu/~aalsum/
+    dissertation: Web Archive Services Framework for Tighter Integration Between the Past and Present Web
+    twitter: http://twitter.com/aalsum
+    who: Ahmed AlSum
+    wrapUpBlog: http://ws-dl.blogspot.com/2014/05/2014-05-28-road-to-most-precious-three.html
+    year: 2014
+    github: https://github.com/orgs/oduwsdl/people/aalsum
+  - gscholar: http://scholar.google.com/citations?user=nMRDlR8AAAAJ
+    dissertation: Using the Web Infrastructure for Real Time Recovery of Missing Web Pages
+    twitter: http://twitter.com/mart1nkle1n
+    who: Martin Klein
+    mug: https://pbs.twimg.com/profile_images/1446884840/mklein_400x400.jpg
+    wrapUpBlog: http://ws-dl.blogspot.com/2011/09/2011-09-14-dissertation-completed.html
+    year: 2011
+  - dissertation: Integrating Preservation Functions Into the Web Server
+    twitter: http://twitter.com/joansm1th
+    who: Joan Smith
+    year: 2008
+  - gscholar: http://scholar.google.com/citations?user=LDHBI20AAAAJ
+    dissertation: 'Lazy Preservation: Reconstructing Websites from the Web Infrastructure'
+    twitter: http://twitter.com/fmccown
+    who: Frank McCown
+    year: 2007
+msAlum:
+  - who: Erika Siregar
+    homepage: http://www.cs.odu.edu/~esiregar/
+    twitter: http://twitter.com/erikaris
+    year: 2017
+    github: https://github.com/orgs/oduwsdl/people/erikaris
+    project: Servicifying And Extending Memento Damage
+    projectLink: https://github.com/erikaris/web-memento-damage
+  - homepage: http://www.cs.odu.edu/~hdo/
+    who: Hung Do
+    year: 2017
+    github: https://github.com/hungvietdo
+    twitter: https://twitter.com/doviethung
+    project: Extending The Archival Acid Test
+    projectLink: https://github.com/hungvietdo/archivalacidtest
+  - homepage: http://www.cs.odu.edu/~gszalkow/
+    who: Greg Szalkowski
+    year: 2016
+    cats: http://thecatapi.com/api/images/get?type=jpg,png&size=small
+  - thesis: Avoiding Spoilers On MediaWiki Fan Sites Using Memento
+    thesisLink: http://digitalcommons.odu.edu/computerscience_etds/1/
+    who: Shawn Jones
+    twitter: http://twitter.com/shawnmjones
+    wrapUpBlog: http://ws-dl.blogspot.com/2015/04/2015-04-05-from-student-to-researcher.html
+    year: 2015
+    github: https://github.com/orgs/oduwsdl/people/shawnmjones
+  - thesis: HTTP Mailbox -- Asynchronous RESTful Communication
+    who: Sawood Alam
+    wrapUpBlog: http://ws-dl.blogspot.com/2013/09/2013-09-09-ms-thesis-http-mailbox.html
+    year: 2013
+    github: https://github.com/orgs/oduwsdl/people/ibnesayeed
+    twitter: http://twitter.com/ibnesayeed
+  - thesis: An Extensible Framework for Creating Personal Web Archives of Content Behind Authentication
+    thesisLink: http://digitalcommons.odu.edu/computerscience_etds/6/
+    who: Mat Kelly
+    wrapUpBlog: http://ws-dl.blogspot.com/2012/08/2012-08-20-ms-thesis-extensible.html
+    year: 2012
+    twitter: http://twitter.com/machawk1
+    github: https://github.com/orgs/oduwsdl/people/machawk1
+  - thesis: Visualizing Digital Collections at Archive-It
+    thesisLink: http://digitalcommons.odu.edu/computerscience_etds/6/
+    who: Kalpesh Padia
+    wrapUpBlog: http://ws-dl.blogspot.com/2012/08/2012-08-10-ms-thesis-visualizing.html
+    year: 2012
+    cats: http://thecatapi.com/api/images/get?type=jpg,png&size=small
+  - thesis: Using Timed-Release Cryptography to Mitigate Preservation Risk of Embargo Periods
+    who: Rabia Haq
+    year: 2008
+    cats: http://thecatapi.com/api/images/get?format=src&type=jpg,png&size=small
+  - thesis: 'Opal: In Vivo Based Preservation Framework for Locating Lost Web Pages'
+    who: Terry Harrison
+    year: 2005
+    cats: http://thecatapi.com/api/images/get?type=jpg,png&size=small

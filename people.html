@@ -1,0 +1,362 @@
+---
+layout: page
+title: People
+image: assets/images/phdCrush.jpg
+description: Meet The Members Of WS-DL
+type: not_bibtex
+nav-menu: true
+---
+
+<div id="main">
+    <section id="banner">
+        <div class="inner">
+                <span class="image">
+                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                </span>
+            <header class="major">
+                <h1>{{ page.title }}</h1>
+                <p>{{ page.description }}</p>
+            </header>
+        </div>
+    </section>
+    <section id="two" class="spotlightsPeople">
+        <header class="major">
+            <h1>Faculty</h1>
+        </header>
+        {% for member in site.data.members.faculty %}
+        <section>
+            <a href="{{member.homepage}}" class="image a-no-hightlight">
+                {% if member.twitter %}
+                <img src='{{member.twitter | append: "/profile_image?size=original" }}' alt=""
+                     data-position="center center">
+                {% endif %}
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <a class="hoverColor" href="{{member.homepage}}">
+                            <h3>{{member.who}}</h3>
+                        </a>
+                    </header>
+                    {% if member.gscholar %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.gscholar }}" rel="nofollow">
+                            <i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
+                        </a>
+                    </h4>
+                    {% endif %}
+                    {% if member.twitter %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.twitter }}" rel="nofollow">
+                            <span class="icon fa-twitter">&nbsp;Twitter</span>
+                        </a>
+                    </h4>
+                    {% endif %}
+                    {% if member.github %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.github }}" rel="nofollow">
+                            <span class="icon fa-github">&nbsp;Github</span>
+                        </a>
+                    </h4>
+                    {% endif %}
+                </div>
+            </div>
+        </section>
+        {% endfor %}
+    </section>
+    <section id="three" class="spotlightsPeople">
+        <header class="major">
+            <h1>PhD Students</h1>
+        </header>
+        {% for member in site.data.members.phds %}
+        <section>
+            <a href="{{member.homepage}}" class="image a-no-hightlight">
+                {% if member.twitter %}
+                <img src='{{member.twitter | append: "/profile_image?size=original" }}' alt=""
+                     data-position="center center">
+                {% endif %}
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <a class="hoverColor" href="{{member.homepage}}">
+                            <h3>{{member.who}}</h3>
+                        </a>
+                    </header>
+                    {% if member.gscholar %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.gscholar }}" rel="nofollow">
+                            <i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
+                        </a>
+                    </h4>
+                    {% endif %}
+                    {% if member.twitter %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.twitter }}" rel="nofollow">
+                            <span class="icon fa-twitter">&nbsp;Twitter</span>
+                        </a>
+                    </h4>
+                    {% endif %}
+                    {% if member.github %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.github }}" rel="nofollow">
+                            <span class="icon fa-github">&nbsp;Github</span>
+                        </a>
+                    </h4>
+                    {% endif %}
+                </div>
+            </div>
+        </section>
+        {% endfor %}
+    </section>
+    <section id="four" class="spotlightsPeople">
+        <header class="major">
+            <h1>MS Students</h1>
+        </header>
+        {% for member in site.data.members.ms %}
+        <section>
+            {% if member.twitter %}
+            <a href="{{member.twitter}}" class="image a-no-hightlight">
+            {% if member.mug %}
+                <img src='{{member.mug}}' alt=""
+                     data-position="center center">
+            {% else %}
+                <img src='{{member.twitter | append: "/profile_image?size=original" }}' alt=""
+                     data-position="center center">
+            </a>
+            {% endif %}
+            {% endif %}
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <a class="hoverColor" href="{{member.homepage}}">
+                            <h3>{{member.who}}</h3>
+                        </a>
+                    </header>
+                    {% if member.gscholar %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.gscholar }}" rel="nofollow">
+                            <i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
+                        </a>
+                    </h4>
+                    {% endif %}
+                    {% if member.twitter %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.twitter }}" rel="nofollow">
+                            <span class="icon fa-twitter">&nbsp;Twitter</span>
+                        </a>
+                    </h4>
+                    {% endif %}
+                    {% if member.github %}
+                    <h4>
+                        <a class="icon alt" href="{{  member.github }}" rel="nofollow">
+                            <span class="icon fa-github">&nbsp;Github</span>
+                        </a>
+                    </h4>
+                    {% endif %}
+                </div>
+            </div>
+        </section>
+        {% endfor %}
+    </section>
+    <section id="five" class="spotlightsPeople">
+        <header class="major">
+            <h1>PhD Alumni</h1>
+        </header>
+        {% for member in site.data.members.phdAlum %}
+        <section>
+            {% if member.homepage %}
+            <a href="{{member.homepage}}" class="image a-no-hightlight">
+                {% if member.twitter and member.mug %}
+                <img src='{{member.mug}}' alt=""
+                     data-position="center center">
+                {% elsif member.twitter %}
+                <img src='{{member.twitter | append: "/profile_image?size=original" }}' alt=""
+                     data-position="center center">
+                {% endif %}
+            </a>
+            {% else %}
+            {% if member.twitter and member.mug %}
+            <img src='{{member.mug}}' alt=""
+                 data-position="center center">
+            {% elsif member.twitter %}
+            <img src='{{member.twitter | append: "/profile_image?size=original" }}' alt=""
+                 data-position="center center">
+            {% endif %}
+            {% endif %}
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <a class="hoverColor" href="{{member.homepage}}">
+                            <h3>{{member.who}}</h3>
+                        </a>
+                    </header>
+                    <div class="row">
+                        <div class="6u 12u$(small)">
+                            {% if member.gscholar %}
+                            <h4>
+                                <a class="icon alt" href="{{  member.gscholar }}" rel="nofollow">
+                                    <i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
+                                </a>
+                            </h4>
+                            {% endif %}
+                            {% if member.twitter %}
+                            <h4>
+                                <a class="icon alt" href="{{  member.twitter }}" rel="nofollow">
+                                    <span class="icon fa-twitter">&nbsp;Twitter</span>
+                                </a>
+                            </h4>
+                            {% endif %}
+                            {% if member.github %}
+                            <h4>
+                                <a class="icon alt" href="{{  member.github }}" rel="nofollow">
+                                    <span class="icon fa-github">&nbsp;Github</span>
+                                </a>
+                            </h4>
+                            {% endif %}
+                        </div>
+                        <div class="6u 12u$(small)">
+                            {% if member.year %}
+                            <h4>
+                                <span class="icon fa-graduation-cap">&nbsp;{{ member.year }}</span>
+                            </h4>
+                            {% endif %}
+                            {% if member.dissertation %}
+                            <h4>
+                                <span class="icon fa-book">&nbsp;{{ member.dissertation }}</span>
+                            </h4>
+                            {% endif %}
+                            {% if member.wrapUpBlog %}
+                            <h4>
+                                <a class="icon alt" href="{{  member.wrapUpBlog }}" rel="nofollow">
+                                    <span class="icon fa-bookmark">&nbsp;Wrap Up Blog</span>
+                                </a>
+                            </h4>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        {% endfor %}
+    </section>
+    <section id="six" class="spotlightsPeople">
+        <header class="major">
+            <h1>MS Alumni</h1>
+        </header>
+        {% for member in site.data.members.msAlum %}
+        <section>
+            {% if member.homepage %}
+            <a href="{{member.homepage}}" class="image a-no-hightlight">
+                {% if member.twitter and member.mug %}
+                <img src='{{member.mug}}' alt=""
+                     data-position="center center">
+                {% elsif member.twitter %}
+                <img src='{{member.twitter | append: "/profile_image?size=original" }}' alt=""
+                     data-position="center center">
+                {% elsif member.cats %}
+                <img src='{{member.cats}}' alt=""
+                     data-position="center center">
+                {% endif %}
+            </a>
+            {% elsif member.twitter %}
+            <a href="{{member.twitter}}" class="image a-no-hightlight">
+                {% if member.twitter and member.mug %}
+                <img src='{{member.mug}}' alt=""
+                     data-position="center center">
+                {% elsif member.twitter %}
+                <img src='{{member.twitter | append: "/profile_image?size=original" }}' alt=""
+                     data-position="center center">
+                {% endif %}
+            </a>
+            {% else %}
+            {% if member.twitter and member.mug %}
+            <img src='{{member.mug}}' alt=""
+                 data-position="center center">
+            {% elsif member.twitter %}
+            <img src='{{member.twitter | append: "/profile_image?size=original" }}' alt=""
+                 data-position="center center">
+            {% elsif member.mug %}
+            <img src='{{member.mug}}' alt=""
+                 data-position="center center">
+            {% elsif member.cats %}
+            <a href="http://thecatapi.com" class="image a-no-hightlight">
+                <img src='{{member.cats}}' alt=""
+                     data-position="center center">
+            </a>
+            {% endif %}
+            {% endif %}
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <a class="hoverColor" href="{{member.homepage}}">
+                            <h3>{{member.who}}</h3>
+                        </a>
+                    </header>
+                    <div class="row">
+                        <div class="6u 12u$(small)">
+                            {% if member.gscholar %}
+                            <h4>
+                                <a class="icon alt" href="{{  member.gscholar }}" rel="nofollow">
+                                    <i class="ai ai-google-scholar"></i>&nbsp;Google Scholar
+                                </a>
+                            </h4>
+                            {% endif %}
+                            {% if member.twitter %}
+                            <h4>
+                                <a class="icon alt" href="{{  member.twitter }}" rel="nofollow">
+                                    <span class="icon fa-twitter">&nbsp;Twitter</span>
+                                </a>
+                            </h4>
+                            {% endif %}
+                            {% if member.github %}
+                            <h4>
+                                <a class="icon alt" href="{{  member.github }}" rel="nofollow">
+                                    <span class="icon fa-github">&nbsp;Github</span>
+                                </a>
+                            </h4>
+                            {% endif %}
+                        </div>
+                        <div class="6u 12u$(small)">
+                            {% if member.year %}
+                            <h4>
+                                <span class="icon fa-graduation-cap">&nbsp;{{ member.year }}</span>
+                            </h4>
+                            {% endif %}
+                            {% if member.thesis %}
+                            <h4>
+                                {% if member.thesisLink %}
+                                <a class="icon alt" href="{{  member.thesisLink }}" rel="nofollow">
+                                    <span class="icon fa-book">&nbsp;{{ member.thesis }}</span>
+                                </a>
+                                {% else %}
+                                <span class="icon fa-book">&nbsp;{{ member.thesis }}</span>
+                                {% endif %}
+                            </h4>
+                            {% endif %}
+                            {% if member.project %}
+                            <h4>
+                                {% if member.projectLink %}
+                                <a class="icon alt" href="{{  member.projectLink }}" rel="nofollow">
+                                    <span class="icon fa-code">&nbsp;{{ member.project }}</span>
+                                </a>
+                                {% else %}
+                                <span class="icon fa-code">&nbsp;{{ member.project }}</span>
+                                {% endif %}
+                            </h4>
+                            {% endif %}
+                            {% if member.wrapUpBlog %}
+                            <h4>
+                                <a class="icon alt" href="{{  member.wrapUpBlog }}" rel="nofollow">
+                                    <span class="icon fa-bookmark">&nbsp;Wrap Up Blog</span>
+                                </a>
+                            </h4>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        {% endfor %}
+    </section>
+</div>
