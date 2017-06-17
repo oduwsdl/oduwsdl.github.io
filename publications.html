@@ -3,7 +3,7 @@ title: Publications
 landing-title: 'publications'
 image: assets/images/pubs.jpg
 type: not_bibtex
-description: Meet The Members Of WS-DL
+description: View Our Publications
 nav-menu: true
 ---
 <!DOCTYPE html>
@@ -25,7 +25,7 @@ nav-menu: true
     <section id="banner" class="style2">
         <div class="inner">
                 <span class="image">
-                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                    <img src="{{ site.github.url }}/{{ page.image }}" alt="">
                 </span>
             <header class="major">
 
@@ -53,11 +53,11 @@ nav-menu: true
                                 {% endif %}
                                 {{ yearPub.where }},&nbsp;
                                 {% if yearPub.bibtex and yearPub.arXiv and yearPub.slides%}
-                                (<a href="{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>,&nbsp;<a
+                                (<a href="{{ site.github.url }}/{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>,&nbsp;<a
                                     href="{{ yearPub.arXiv }}"><strong>arXiv</strong></a>,&nbsp;<a
                                     href="{{ yearPub.slides }}"><strong>slides</strong></a>)
                                 {% elsif yearPub.bibtex and yearPub.arXiv %}
-                                (<a href="{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>,&nbsp;<a
+                                (<a href="{{site.github.url}}/{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>,&nbsp;<a
                                     href="{{ yearPub.arXiv }}"><strong>arXiv</strong></a>)
                                 {% elsif yearPub.bibtex and yearPub.slides %}
                                 (<a href="{{ yearPub.arXiv }}"><strong>BibTeX</strong></a>,&nbsp;<a
@@ -66,7 +66,7 @@ nav-menu: true
                                 (<a href="{{ yearPub.arXiv }}"><strong>arXiv</strong></a>,&nbsp;<a
                                     href="{{ yearPub.slides }}"><strong>slides</strong></a>)
                                 {% elsif yearPub.bibtex%}
-                                (<a href="{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>)
+                                (<a href="{{site.github.url}}/{{ yearPub.bibtex }}"><strong>BibTeX</strong></a>)
                                 {% elsif yearPub.arXiv %}
                                 (<a href="{{ yearPub.arXiv }}"><strong>arXiv</strong></a>)
                                 {% else %}

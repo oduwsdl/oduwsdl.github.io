@@ -12,7 +12,7 @@ layout: page
     <section id="banner" class="style2">
         <div class="inner">
                 <span class="image">
-                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                     <img src="{{ site.github.url }}/{{ page.image }}" alt="">
                 </span>
             <header class="major">
 
@@ -25,30 +25,29 @@ layout: page
         <div class="inner">
             <ul>
                 {% for repository in site.github.public_repositories %}
-                    <li>
-                        {{ repository.name }} <span class="octicon octicon-clippy"></span><br/>
-                        {{ repository.description }}<br/>
-                        {{ repository.html_url}}<br/>
-                        {{ repository.forks_count}}<br/>
-                        {{ repository.watchers_count}}<br/>
-                        {{ repository.stargazers_count}}<br/>
-                        {{ repository.language}}<br/>
-                        {{ rpository.created_at | truncate: 4 | date: "%Y-%m-%d %H:%M:%S" }}
-                        {{ rpository.updated_at | truncate: 4 | date: "%Y-%m-%d %H:%M:%S" }}
-                        {% for topic in repository.topics %}
-                            {{ topic }}
-                        {% endfor %}
-                        <p>
-                            {% for it in repository %}
-                            {% for it2 in it %}
-                            {{ it }}&nbsp;{{ it2 }}<br/>
-                            {% endfor %}
-                            {% endfor %}
-                        </p>
-                    </li>
+                {% if repository.name != 'logo' and repository.name != 'oduwsdl.github.io' %}
+                <li>
+                    <a class="icon alt" href="{{repository.html_url}}" rel="nofollow">
+                        {{ repository.name | upcase }}&nbsp;<i class="octicon octicon-mark-github"></i>
+                    </a>
+                    <p>
+                        {% if repository.description %}
+                        <b>{{ repository.description }}</b><br/>
+                        {% endif %}
+                        {{ repository.forks_count }}&nbsp;<i class="octicon octicon-repo-forked"></i>
+                        {{ repository.watchers_count }}&nbsp;<i class="octicon octicon-eye"></i>
+                        {{ repository.stargazers_count}}&nbsp;<i class="octicon octicon-star"></i>
+                        <a class="icon alt" href="{{repository.clone_url}}" rel="nofollow">
+                            {% if repository.language %}
+                            <em>{{ repository.language }}</em>
+                            {% endif %}
+                            <i class="octicon octicon-repo-clone"></i>
+                        </a>
+                    </p>
+                </li>
+                {% endif %}
                 {% endfor %}
             </ul>
-
         </div>
     </section>
 </section>
