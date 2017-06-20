@@ -24,7 +24,8 @@ layout: page
     <section id="two">
         <div class="inner">
             <ul>
-                {% for repository in site.github.public_repositories %}
+                {% assign repos = (site.github.public_repositories | sort: 'pushed_at') | reverse %}
+                {% for repository in repos %}
                 {% if repository.name != 'logo' and repository.name != 'oduwsdl.github.io' %}
                 <li>
                     <a class="icon alt" href="{{repository.html_url}}" rel="nofollow">
