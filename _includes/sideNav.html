@@ -1,0 +1,20 @@
+<div id="offcanvas" uk-offcanvas="mode: push; overlay: true">
+    <div class="uk-offcanvas-bar">
+        <div class="uk-panel">
+            <ul class="uk-nav uk-nav-default tm-nav uk-margin-top" v-for="(pages, category, index) in navigation">
+                {% for page in site.pages %}
+                {% if page.layout == "home" %}
+                <li><a href="{{ site.github.url }}">{{ page.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+                {% for page in site.pages %}
+                {% if page.blogUrl %}
+                <li><a href="{{ page.blogUrl }}">{{ page.title }}</a></li>
+                {% elsif page.layout != "home" %}
+                <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,15 @@
+{
+  "name": "oduwsdl.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oduwsdl/oduwsdl.github.io.git",
+  "author": "N0taN3rd <n0tan3rd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "devicons": "^1.8.0",
+    "font-awesome": "^4.7.0",
+    "fs-extra": "^4.0.1",
+    "jquery": "^3.2.1",
+    "uikit": "^3.0.0-beta.30"
+  }
+}

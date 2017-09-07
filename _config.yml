@@ -55,6 +55,7 @@ gems:
   - jekyll-feed
   - jekyll-github-metadata
 exclude:
+  - bin
   - original
   - Gemfile
   - Gemfile.lock
