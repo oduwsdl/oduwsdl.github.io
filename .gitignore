@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Jekyll changes
+_site
+.jekyll-metadata
+.DS_Store
+.sass-cache
+
+# Recommended for GitHub pages by https://ben.balter.com/jekyll-style-guide/gitignore/
+Gemfile.lock
