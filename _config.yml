@@ -3,5 +3,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-baseurl: "/dsa"
+baseurl: "/oduwsdl.github.io"
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
