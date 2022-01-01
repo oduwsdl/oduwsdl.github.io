@@ -144,3 +144,156 @@ phd:
     title: "Lazy Preservation: Reconstructing Websites from the Web Infrastructure"
     link: https://digitalcommons.odu.edu/computerscience_etds/21
   initial_employment: Harding University
+
+ms:
+- name: Abigail Mabe
+  avatar: https://pbs.twimg.com/profile_images/1192443895084453888/AY2hKor4_400x400.jpg
+  twitter_handle: abigail_mabe
+  graduation_year: 2021
+- name: Dhruv Patel
+  avatar: https://pbs.twimg.com/profile_images/1192439621713563649/ws9Oy-cm_400x400.jpg
+  twitter_handle: dhruv_282
+  graduation_year: 2021
+- name: Puneeth Bikkasandra Puttaramegowda
+  avatar: https://pbs.twimg.com/profile_images/1279471465453232128/N5TMpMrp_400x400.jpg
+  twitter_handle: PuneethBikks
+  graduation_year: 2020
+- name: John Berlin
+  avatar: https://pbs.twimg.com/profile_images/691507288901685249/mMYopFJn_400x400.jpg
+  homepage: http://www.cs.odu.edu/~jberlin/
+  twitter_handle: johnaberlin
+  google_scholar_id: dJacdOoAAAAJ
+  graduation_year: 2018
+  thesis:
+    title: "To Relive The Web: A Framework For The Transformation And Archival Replay Of Web Pages"
+    link: https://digitalcommons.odu.edu/computerscience_etds/38
+  wrapup_blog_post: http://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html
+- name: Grant Atkins
+  avatar: https://pbs.twimg.com/profile_images/1097601934566047746/1Luv1J1k_400x400.png
+  twitter_handle: grantcatkins
+  graduation_year: 2018
+- name: Maheedhar Gunnam
+  avatar: https://pbs.twimg.com/profile_images/908465688909623297/stFBwsQS_400x400.jpg
+  twitter_handle: maheedhargunnam
+  graduation_year: 2018
+- name: Erika Siregar
+  avatar: https://pbs.twimg.com/profile_images/707802054643863552/0qY4GvI9_400x400.jpg
+  twitter_handle: erikaris
+  graduation_year: 2017
+- name: Hung Do
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2017
+- name: Greg Szalkowski
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  homepage: http://www.cs.odu.edu/~gszalkow/
+  graduation_year: 2016
+- name: Shawn Jones
+  avatar: https://pbs.twimg.com/profile_images/1146562318488068096/4h23mLMm_400x400.png
+  homepage: http://www.cs.odu.edu/~sjone/
+  twitter_handle: shawnmjones
+  google_scholar_id: 97KuWzQAAAAJ
+  graduation_year: 2015
+  thesis:
+    title: "Avoiding Spoilers On MediaWiki Fan Sites Using Memento"
+    link: http://digitalcommons.odu.edu/computerscience_etds/1/
+  wrapup_blog_post: http://ws-dl.blogspot.com/2015/04/2015-04-05-from-student-to-researcher.html
+- name: Sawood Alam
+  avatar: https://pbs.twimg.com/profile_images/1003713089160638464/XMT6GGVQ_400x400.jpg
+  homepage: https://www.cs.odu.edu/~salam/
+  twitter_handle: ibnesayeed
+  google_scholar_id: zXdbEQgAAAAJ
+  graduation_year: 2013
+  thesis:
+    title: "HTTP Mailbox - Asynchronous RESTful Communication"
+    link: https://digitalcommons.odu.edu/computerscience_etds/28
+  wrapup_blog_post: http://ws-dl.blogspot.com/2013/09/2013-09-09-ms-thesis-http-mailbox.html
+- name: Mat Kelly
+  avatar: https://pbs.twimg.com/profile_images/1187461597377089539/8RtYQShf_400x400.jpg
+  homepage: http://matkelly.com
+  twitter_handle: machawk1
+  google_scholar_id: ehg7mloAAAAJ
+  graduation_year: 2012
+  thesis:
+    title: "An Extensible Framework for Creating Personal Web Archives of Content Behind Authentication"
+    link: http://digitalcommons.odu.edu/computerscience_etds/6/
+  wrapup_blog_post: http://ws-dl.blogspot.com/2012/08/2012-08-20-ms-thesis-extensible.html
+- name: Kalpesh Padia
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  homepage: http://www4.ncsu.edu/~kpadia/
+  graduation_year: 2012
+  thesis:
+    title: "Visualizing Digital Collections at Archive-It"
+    link: http://digitalcommons.odu.edu/computerscience_etds/6/
+  wrapup_blog_post: http://ws-dl.blogspot.com/2012/08/2012-08-10-ms-thesis-visualizing.html
+- name: Carlton Northern
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2011
+- name: Matthias Prellwitz
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2010
+- name: Jeb Ware
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2010
+- name: Scott Ainsworth
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2010
+- name: Jeffery Shipman
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2010
+- name: Sudhir Koneru
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2009
+- name: Venkata Potta
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2009
+- name: Rabia Haq
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2008
+  thesis:
+    title: "Using Timed-Release Cryptography to Mitigate Preservation Risk of Embargo Periods"
+    link: https://digitalcommons.odu.edu/computerscience_etds/26/
+- name: Olena Hunsicker
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2008
+- name: Venkata Sai Krishna Kamineni
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2008
+- name: Satish Lakkoju
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2008
+- name: Krishnan Ganesh Madras
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2008
+- name: Amine Benjelloun
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2007
+- name: Manoranjan Magudam
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2007
+- name: Ignacio Garcia del Campo
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2006
+- name: Aravind Elango
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2005
+- name: Giridhar Manepalli
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2005
+- name: Suchitra Manepalli
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2005
+- name: Daniel Swaney
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2005
+- name: Terry Harrison
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2005
+  thesis:
+    title: "Opal: In Vivo Based Preservation Framework for Locating Lost Web Pages"
+    link: https://digitalcommons.odu.edu/computerscience_etds/23/
+- name: Sheffan Chan
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2004
+- name: Thomas Lutkenhouse
+  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+  graduation_year: 2004
