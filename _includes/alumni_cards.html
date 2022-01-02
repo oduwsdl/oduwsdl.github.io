@@ -1,0 +1,24 @@
+{%- for alumnus in include.alumni %}
+<div class="person-container">
+  <div class="person-image"><img src="{{ alumnus.avatar }}" width="100" /></div>
+  <div>
+    {%- if alumnus.homepage %}
+    <a class="urllink" href="{{ alumnus.homepage }}" rel="nofollow">{{ include.prefix }} {{ alumnus.name }}</a>
+    {%- else %}
+    {{ include.prefix }} {{ alumnus.name }}
+    {%- endif %}
+    {%- if alumnus.twitter_handle %}<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/{{ alumnus.twitter_handle }}" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>{%- endif %}
+    {%- if alumnus.google_scholar_id %}<a class="urllink" href="https://scholar.google.com/citations?user={{ alumnus.google_scholar_id }}" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>{%- endif %}
+    ({{ alumnus.graduation_year }})
+    {%- if alumnus.thesis %}
+    {%- if alumnus.thesis.link %}
+    - <a class="urllink" href="{{ alumnus.thesis.link }}" rel="nofollow">"{{ alumnus.thesis.title }}"</a>
+    {%- else %}
+    - "{{ alumnus.thesis.title }}"
+    {%- endif %}
+    {%- endif %}
+    {%- if alumnus.wrapup_blog_post %}- <em><a class="urllink" href="{{ alumnus.wrapup_blog_post }}">wrap-up blog</a></em>{%- endif %}
+    {%- if alumnus.initial_employment %}<br />Initial employment: {{ alumnus.initial_employment }}{%- endif %}
+  </div>
+</div>
+{%- endfor %}
