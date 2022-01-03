@@ -1,7 +1,6 @@
 phd:
 
 - name: Shawn M. Jones
-  avatar: https://pbs.twimg.com/profile_images/1146562318488068096/4h23mLMm_400x400.png
   homepage: http://www.cs.odu.edu/~sjone/
   twitter_handle: shawnmjones
   google_scholar_id: 97KuWzQAAAAJ
@@ -13,7 +12,6 @@ phd:
   initial_employment: Los Alamos National Laboratory
 
 - name: Sawood Alam
-  avatar: https://pbs.twimg.com/profile_images/1003713089160638464/XMT6GGVQ_400x400.jpg
   homepage: https://www.cs.odu.edu/~salam/
   twitter_handle: ibnesayeed
   google_scholar_id: zXdbEQgAAAAJ
@@ -25,7 +23,6 @@ phd:
   initial_employment: Internet Archive
 
 - name: Mohamed Aturban
-  avatar: https://pbs.twimg.com/profile_images/1376686445214203905/mxLHRgQH_400x400.jpg
   homepage: https://mohamedaturban.com/
   twitter_handle: maturban1
   google_scholar_id: XdGvjXEAAAAJ
@@ -37,7 +34,6 @@ phd:
   initial_employment: Columbia College
 
 - name: Alexander Nwala
-  avatar: https://pbs.twimg.com/profile_images/1475516476757102601/a2auLoCd_400x400.jpg
   homepage: http://www.cs.odu.edu/~anwala/
   twitter_handle: acnwala
   google_scholar_id: LqrUey4AAAAJ
@@ -49,7 +45,6 @@ phd:
   initial_employment: Indiana University
 
 - name: Mat Kelly
-  avatar: https://pbs.twimg.com/profile_images/1187461597377089539/8RtYQShf_400x400.jpg
   homepage: http://matkelly.com
   twitter_handle: machawk1
   google_scholar_id: ehg7mloAAAAJ
@@ -61,7 +56,6 @@ phd:
   initial_employment: Drexel University
 
 - name: Lulwah Alkwai
-  avatar: https://pbs.twimg.com/profile_images/509377321963241473/ifP63RK9_400x400.jpeg
   twitter_handle: LulwahMA
   google_scholar_id: EnQF73AAAAAJ
   graduation_year: 2019
@@ -72,7 +66,6 @@ phd:
   initial_employment: University of Hail
 
 - name: Yasmin AlNoamany
-  avatar: https://pbs.twimg.com/profile_images/681701447973470212/27uSdDTM_400x400.jpg
   twitter_handle: yasmina_anwar
   google_scholar_id: bRlYmNcAAAAJ
   graduation_year: 2016
@@ -83,7 +76,6 @@ phd:
   initial_employment: University of California, Berkeley
 
 - name: Justin F. Brunelle
-  avatar: https://pbs.twimg.com/profile_images/643489094476132353/lWNbAJj3_400x400.jpg
   homepage: http://www.justinfbrunelle.com/
   twitter_handle: justinfbrunelle
   google_scholar_id: O_Fdci8AAAAJ
@@ -95,7 +87,6 @@ phd:
   initial_employment: MITRE
 
 - name: Hany SalahEldeen
-  avatar: https://pbs.twimg.com/profile_images/589006417966850048/oS_M-9wr_400x400.jpg
   twitter_handle: hanysalaheldeen
   google_scholar_id: XpmZBggAAAAJ
   graduation_year: 2015
@@ -106,7 +97,6 @@ phd:
   initial_employment: Microsoft
 
 - name: Chuck Cartledge
-  avatar: https://pbs.twimg.com/profile_images/633987612177526784/JpIllQCP_400x400.jpg
   homepage: http://www.cs.odu.edu/~ccartled/
   twitter_handle: simplesimon2013
   google_scholar_id: pXj9Dk4AAAAJ
@@ -118,7 +108,6 @@ phd:
   initial_employment: Fulcrum IT Services
 
 - name: Ahmed AlSum
-  avatar: https://pbs.twimg.com/profile_images/901003687115366401/ZdsiAE9v_400x400.jpg
   twitter_handle: aalsum
   google_scholar_id: BrxQC4MAAAAJ
   graduation_year: 2014
@@ -129,7 +118,6 @@ phd:
   initial_employment: Stanford University
 
 - name: Martin Klein
-  avatar: https://pbs.twimg.com/profile_images/1446884840/mklein_400x400.jpg
   homepage: https://www.lanl.gov/library/about/research-prototyping.php
   twitter_handle: mart1nkle1n
   google_scholar_id: nMRDlR8AAAAJ
@@ -141,7 +129,6 @@ phd:
   initial_employment: LANL
 
 - name: Joan Smith
-  avatar: https://pbs.twimg.com/profile_images/2971076407/6190a113bbf895966099782c23aa171a_400x400.png
   twitter_handle: joansm1th
   graduation_year: 2008
   thesis:
@@ -150,7 +137,6 @@ phd:
   initial_employment: Emory University
 
 - name: Frank McCown
-  avatar: https://pbs.twimg.com/profile_images/1243239764364574723/iOnqG8if_400x400.jpg
   twitter_handle: fmccown
   google_scholar_id: LDHBI20AAAAJ
   graduation_year: 2007
@@ -162,22 +148,18 @@ phd:
 ms:
 
 - name: Abigail Mabe
-  avatar: https://pbs.twimg.com/profile_images/1192443895084453888/AY2hKor4_400x400.jpg
   twitter_handle: abigail_mabe
   graduation_year: 2021
 
 - name: Dhruv Patel
-  avatar: https://pbs.twimg.com/profile_images/1192439621713563649/ws9Oy-cm_400x400.jpg
   twitter_handle: dhruv_282
   graduation_year: 2021
 
 - name: Puneeth Bikkasandra Puttaramegowda
-  avatar: https://pbs.twimg.com/profile_images/1452346137021595649/gpkLXUaX_400x400.jpg
   twitter_handle: PuneethBikks
   graduation_year: 2020
 
 - name: John Berlin
-  avatar: https://pbs.twimg.com/profile_images/691507288901685249/mMYopFJn_400x400.jpg
   homepage: http://www.cs.odu.edu/~jberlin/
   twitter_handle: johnaberlin
   google_scholar_id: dJacdOoAAAAJ
@@ -188,31 +170,25 @@ ms:
   wrapup_blog_post: http://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html
 
 - name: Grant Atkins
-  avatar: https://pbs.twimg.com/profile_images/1097601934566047746/1Luv1J1k_400x400.png
   twitter_handle: grantcatkins
   graduation_year: 2018
 
 - name: Maheedhar Gunnam
-  avatar: https://pbs.twimg.com/profile_images/908465688909623297/stFBwsQS_400x400.jpg
   twitter_handle: maheedhargunnam
   graduation_year: 2018
 
 - name: Erika Siregar
-  avatar: https://pbs.twimg.com/profile_images/707802054643863552/0qY4GvI9_400x400.jpg
   twitter_handle: erikaris
   graduation_year: 2017
 
 - name: Hung Do
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2017
 
 - name: Greg Szalkowski
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   homepage: http://www.cs.odu.edu/~gszalkow/
   graduation_year: 2016
 
 - name: Shawn Jones
-  avatar: https://pbs.twimg.com/profile_images/1146562318488068096/4h23mLMm_400x400.png
   homepage: http://www.cs.odu.edu/~sjone/
   twitter_handle: shawnmjones
   google_scholar_id: 97KuWzQAAAAJ
@@ -223,7 +199,6 @@ ms:
   wrapup_blog_post: http://ws-dl.blogspot.com/2015/04/2015-04-05-from-student-to-researcher.html
 
 - name: Sawood Alam
-  avatar: https://pbs.twimg.com/profile_images/1003713089160638464/XMT6GGVQ_400x400.jpg
   homepage: https://www.cs.odu.edu/~salam/
   twitter_handle: ibnesayeed
   google_scholar_id: zXdbEQgAAAAJ
@@ -234,7 +209,6 @@ ms:
   wrapup_blog_post: http://ws-dl.blogspot.com/2013/09/2013-09-09-ms-thesis-http-mailbox.html
 
 - name: Mat Kelly
-  avatar: https://pbs.twimg.com/profile_images/1187461597377089539/8RtYQShf_400x400.jpg
   homepage: http://matkelly.com
   twitter_handle: machawk1
   google_scholar_id: ehg7mloAAAAJ
@@ -245,7 +219,6 @@ ms:
   wrapup_blog_post: http://ws-dl.blogspot.com/2012/08/2012-08-20-ms-thesis-extensible.html
 
 - name: Kalpesh Padia
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   homepage: http://www4.ncsu.edu/~kpadia/
   graduation_year: 2012
   thesis:
@@ -254,95 +227,73 @@ ms:
   wrapup_blog_post: http://ws-dl.blogspot.com/2012/08/2012-08-10-ms-thesis-visualizing.html
 
 - name: Carlton Northern
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2011
 
 - name: Matthias Prellwitz
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2010
 
 - name: Jeb Ware
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2010
 
 - name: Scott Ainsworth
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2010
 
 - name: Jeffery Shipman
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2010
 
 - name: Sudhir Koneru
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2009
 
 - name: Venkata Potta
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2009
 
 - name: Rabia Haq
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2008
   thesis:
     title: "Using Timed-Release Cryptography to Mitigate Preservation Risk of Embargo Periods"
     link: https://digitalcommons.odu.edu/computerscience_etds/26/
 
 - name: Olena Hunsicker
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2008
 
 - name: Venkata Sai Krishna Kamineni
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2008
 
 - name: Satish Lakkoju
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2008
 
 - name: Krishnan Ganesh Madras
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2008
 
 - name: Amine Benjelloun
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2007
 
 - name: Manoranjan Magudam
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2007
 
 - name: Ignacio Garcia del Campo
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2006
 
 - name: Aravind Elango
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2005
 
 - name: Giridhar Manepalli
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2005
 
 - name: Suchitra Manepalli
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2005
 
 - name: Daniel Swaney
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2005
 
 - name: Terry Harrison
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2005
   thesis:
     title: "Opal: In Vivo Based Preservation Framework for Locating Lost Web Pages"
     link: https://digitalcommons.odu.edu/computerscience_etds/23/
 
 - name: Sheffan Chan
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2004
 
 - name: Thomas Lutkenhouse
-  avatar: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
   graduation_year: 2004

@@ -1,6 +1,6 @@
 {%- for alumnus in include.alumni %}
 <div class="person-container">
-  <div class="person-image"><img src="{{ alumnus.avatar }}" width="100" /></div>
+  <div class="person-image"><img src="assets/images/avatars/{{ alumnus.twitter_handle | default: 'default_profile' }}.jpg" width="100" /></div>
   <div>
     {%- if alumnus.homepage %}
     <a class="urllink" href="{{ alumnus.homepage }}" rel="nofollow">{{ include.prefix }} {{ alumnus.name }}</a>
