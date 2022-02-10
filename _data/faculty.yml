@@ -1,8 +1,8 @@
 - name: Dr. Michael L. Nelson
   homepage: http://www.cs.odu.edu/~mln
-  twitter_handle: weiglemc
-  google_scholar_id: MOLPTqcAAAAJ
-  research_topic: web science, digital preservation, social media, information visualization
+  twitter_handle: phonedude_mln
+  google_scholar_id: oWQaPnwAAAAJ
+  research_topic: web science, web archiving, social media, digital libraries, repositories
 
 - name: Dr. Michele C. Weigle
   homepage: https://weiglemc.github.io/
@@ -10,26 +10,26 @@
   google_scholar_id: MOLPTqcAAAAJ
   research_topic: web science, digital preservation, social media, information visualization
   
-- name: Dr. Michele C. Weigle
-  homepage: https://weiglemc.github.io/
-  twitter_handle: weiglemc
-  google_scholar_id: MOLPTqcAAAAJ
-  research_topic: web science, digital preservation, social media, information visualization
+- name: Dr. Sampath Jayarathna
+  homepage: https://www.cs.odu.edu/~sampath/
+  twitter_handle: OpenMaze
+  google_scholar_id: OkEoChMAAAAJ
+  research_topic: eye tracking, data science, machine learning, multimodal sensing, cognitive computing, digital libraries
   
-  - name: Dr. Michele C. Weigle
-  homepage: https://weiglemc.github.io/
-  twitter_handle: weiglemc
-  google_scholar_id: MOLPTqcAAAAJ
-  research_topic: web science, digital preservation, social media, information visualization
+- name: Dr. Jian Wu
+  homepage: https://www.cs.odu.edu/~jwu/
+  twitter_handle: fanchyna
+  google_scholar_id: eRsYx8AAAAJ
+  research_topic: text mining, scholarly big data, digital libraries, search engines, natural language processing, applied machine learning, deep learning
   
-  - name: Dr. Michele C. Weigle
-  homepage: https://weiglemc.github.io/
-  twitter_handle: weiglemc
-  google_scholar_id: MOLPTqcAAAAJ
-  research_topic: web science, digital preservation, social media, information visualization
+- name: Dr. Vikas Ashok
+  homepage: https://www.cs.odu.edu/~vashok/
+  twitter_handle: vikas_daveb
+  google_scholar_id: Lfu3j30AAAAJ&hl
+  research_topic: human computer interaction, accessible computing, natural language processing, web technologies
   
-  - name: Dr. Michele C. Weigle
-  homepage: https://weiglemc.github.io/
-  twitter_handle: weiglemc
-  google_scholar_id: MOLPTqcAAAAJ
-  research_topic: web science, digital preservation, social media, information visualization
+- name: Dr. Faryaneh Poursardar 
+  homepage: https://www.cs.odu.edu/~poursardar/
+  twitter_handle: Faryane
+  google_scholar_id: QjHw7ugAAAAJ&hl
+  research_topic: digital libraries, social computing, web science, data science, machine learning, digital data preservation
