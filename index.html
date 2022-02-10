@@ -41,7 +41,7 @@ Indiana University, Emory University, University of California at Berkeley, and 
         </div>
       </div>
 
-      <!-- faculty previous 
+      <!-- faculty previous row
       
       <div id="Faculty" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
 
@@ -61,6 +61,23 @@ Indiana University, Emory University, University of California at Berkeley, and 
         </div>
       </div>
 -->
+      
+      
+      <!-- faculty new row -->
+      <div id="Faculty" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>Faculty</h4>
+
+            <h5>PhD Alumni</h5>
+            
+            {% include faculty_cards.html faculty=site.data.faculty %}
+
+          </div>
+        </div>
+      </div>
+      
       
       <!-- Students -->
       <div id="Students" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
