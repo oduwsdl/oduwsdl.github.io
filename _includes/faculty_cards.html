@@ -1,0 +1,15 @@
+{%- for faculties in include.faculty %}
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/{{ faculties.twitter_handle | default: 'default_profile' }}.jpg" width="100" /></div>
+  <div>
+    {%- if faculties.homepage %}
+    <a class="urllink" href="{{ faculties.homepage }}" rel="nofollow">{{ include.prefix }} {{ faculties.name }}</a>
+    {%- else %}
+    {{ include.prefix }} {{ faculties.name }}
+    {%- endif %}
+    {%- if faculties.twitter_handle %}<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/{{ faculties.twitter_handle }}" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>{%- endif %}
+    {%- if faculties.google_scholar_id %}<a class="urllink" href="https://scholar.google.com/citations?user={{ faculties.google_scholar_id }}" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>{%- endif %}
+    {{ faculties.research_topic }}
+  </div>
+</div>
+{%- endfor %}
