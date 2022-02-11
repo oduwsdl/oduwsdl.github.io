@@ -11,8 +11,7 @@
     {%- if faculties.google_scholar_id %}<a class="urllink" href="https://scholar.google.com/citations?user={{ faculties.google_scholar_id }}" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>{%- endif %}
     <br /><em>Research topics:</em> {{ faculties.research_topic }}
     {%- if faculties.lab %}
-    <a class="urllink" href="{{ faculties.lab_link }}" rel="nofollow">{{ faculties.lab }}</a>
-    {%- else %}
+    <a class="urllink" href="{{ faculties.lab_link }}" rel="nofollow">{{ faculties.lab }}</a>{%- endif %}
   </div>
 </div>
 {%- endfor %}
