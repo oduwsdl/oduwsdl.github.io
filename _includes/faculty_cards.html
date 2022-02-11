@@ -3,7 +3,7 @@
   <div class="person-image"><img src="assets/images/avatars/{{ faculties.twitter_handle | default: 'default_profile' }}.jpg" width="100" /></div>
   <div>
     {%- if faculties.homepage %}
-    <a class="urllink" href="{{ faculties.homepage }}" rel="nofollow">{{ include.prefix }} {{ faculties.name }}</a>
+    <a class="urllink" href="{{ faculties.homepage }}" rel="nofollow">{{ faculties.name }}</a>
     {%- else %}
     {{ faculties.name }}
     {%- endif %}
