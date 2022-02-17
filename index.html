@@ -41,7 +41,7 @@ Indiana University, Emory University, University of California at Berkeley, and 
         </div>
       </div>
 
-      <!-- faculty previous row
+      <!-- Faculty Previous
       
       <div id="Faculty" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
 
@@ -63,7 +63,7 @@ Indiana University, Emory University, University of California at Berkeley, and 
 -->
       
       
-      <!-- faculty new row -->
+      <!-- Faculty Updated -->
       <div id="Faculty" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
 
         <div class="col-xl-12 col-lg-12">
@@ -77,7 +77,7 @@ Indiana University, Emory University, University of California at Berkeley, and 
       </div>
       
       
-      <!-- Students -->
+      <!-- Students 
       <div id="Students" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
 
         <div class="col-xl-12 col-lg-12">
@@ -120,7 +120,26 @@ Indiana University, Emory University, University of California at Berkeley, and 
           </div>
         </div>
       </div>
+-->
 
+ <!-- Students Updated -->
+      <div id="Alumni" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>Alumni</h4>
+
+            <h5>PhD Alumni</h5>
+
+            {% include alumni_cards.html alumni=site.data.alumni.phd prefix="Dr." %}
+
+            <h5>MS Alumni</h5>
+
+            {% include alumni_cards.html alumni=site.data.alumni.ms %}
+
+          </div>
+        </div>
+      </div>
 
       <!-- Alumni -->
       <div id="Alumni" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
