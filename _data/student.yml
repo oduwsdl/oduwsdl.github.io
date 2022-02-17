@@ -21,3 +21,27 @@ phd:
     link: https://digitalcommons.odu.edu/computerscience_etds/129/
   wrapup_blog_post: https://ws-dl.blogspot.com/2020/12/2020-12-31-doctoral-degree-takes.html
   initial_employment: Internet Archive
+  
+ms:
+
+- name: Abigail Mabe
+  twitter_handle: abigail_mabe
+  graduation_year: 2021
+
+- name: Dhruv Patel
+  twitter_handle: dhruv_282
+  graduation_year: 2021
+
+- name: Puneeth Bikkasandra Puttaramegowda
+  twitter_handle: PuneethBikks
+  graduation_year: 2020
+
+- name: John Berlin
+  homepage: http://www.cs.odu.edu/~jberlin/
+  twitter_handle: johnaberlin
+  google_scholar_id: dJacdOoAAAAJ
+  graduation_year: 2018
+  thesis:
+    title: "To Relive The Web: A Framework For The Transformation And Archival Replay Of Web Pages"
+    link: https://digitalcommons.odu.edu/computerscience_etds/38
+  wrapup_blog_post: http://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html
