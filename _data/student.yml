@@ -1,1 +1,23 @@
+phd:
 
+- name: Shawn M. Jones
+  homepage: http://www.cs.odu.edu/~sjone/
+  twitter_handle: shawnmjones
+  google_scholar_id: 97KuWzQAAAAJ
+  graduation_year: 2021
+  thesis:
+    title: "Improving Collection Understanding For Web Archives With Storytelling: Shining Light Into Dark and Stormy Archives"
+    link: https://www.shawnmjones.org/assets/downloads/shawnmjones-dissertation.pdf
+  wrapup_blog_post: https://ws-dl.blogspot.com/2021/09/2021-09-01-from-student-to-researcher.html
+  initial_employment: Los Alamos National Laboratory
+
+- name: Sawood Alam
+  homepage: https://www.cs.odu.edu/~salam/
+  twitter_handle: ibnesayeed
+  google_scholar_id: zXdbEQgAAAAJ
+  graduation_year: 2020
+  thesis:
+    title: "MementoMap: A Web Archive Profiling Framework for Efficient Memento Routing"
+    link: https://digitalcommons.odu.edu/computerscience_etds/129/
+  wrapup_blog_post: https://ws-dl.blogspot.com/2020/12/2020-12-31-doctoral-degree-takes.html
+  initial_employment: Internet Archive
