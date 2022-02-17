@@ -99,12 +99,35 @@ phd:
   
 ms:
 
-- name: Abigail Mabe
-  twitter_handle: abigail_mabe
-  graduation_year: 2021
+- name: Lesley Frew
+  twitter_handle: lesley_elis
+  advisor: Weigle
+  
+- name: Martin Gryder
+  advisor: Wu
+ 
+- name: Yash Prakash
+  twitter_handle: LunaticBugbear
+  advisor: Ashok
+
+- name: Nauman Siddique 
+  homepage: https://www.cs.odu.edu/~msiddique/
+  twitter_handle: m_nsiddique
+  advisor: Nelson
+  
+- name: Winston Shields
+  homepage: https://www.linkedin.com/in/winston-shields-019b01188/
+  advisor: Wu  
+  
+- name: MD Sami Uddin
+  twitter_handle: Rayan12586930
+  google_scholar_id: 9GJoF4AAAAAJ&hl
+  advisor: Wu
 
 bs:
 
-- name: Abigail Mabe
-  twitter_handle: abigail_mabe
-  graduation_year: 2021
+- name: Kyle Canady 
+  advisor: Wu
+  
+- name: Ryan Hiltabrand
+  advisor: Wu
