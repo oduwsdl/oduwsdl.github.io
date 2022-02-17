@@ -1,26 +1,101 @@
 phd:
 
-- name: Shawn M. Jones
-  homepage: http://www.cs.odu.edu/~sjone/
-  twitter_handle: shawnmjones
-  google_scholar_id: 97KuWzQAAAAJ
-  graduation_year: 2021
-  thesis:
-    title: "Improving Collection Understanding For Web Archives With Storytelling: Shining Light Into Dark and Stormy Archives"
-    link: https://www.shawnmjones.org/assets/downloads/shawnmjones-dissertation.pdf
-  wrapup_blog_post: https://ws-dl.blogspot.com/2021/09/2021-09-01-from-student-to-researcher.html
-  initial_employment: Los Alamos National Laboratory
+- name: Kehinde Ajayi
+  homepage: https://www.cs.odu.edu/~kajay/
+  twitter_handle: AjayiKehindep
+  google_scholar_id: tL6pCpkAAAAJ&hl
+  advisor: Wu
+  
+- name: Muntabir Hasan Choudhury
+  homepage: https://www.cs.odu.edu/~mchoudhury/
+  twitter_handle: TasinChoudhury
+  google_scholar_id: HudTafsAAAAJ&hl
+  advisor: Wu
+  
+- name: Jimmy Ecker
+  homepage: https://www.cs.odu.edu/~jecker/
+  twitter_handle: jimmy_ecker
+  advisor: Nelson
 
-- name: Sawood Alam
-  homepage: https://www.cs.odu.edu/~salam/
-  twitter_handle: ibnesayeed
-  google_scholar_id: zXdbEQgAAAAJ
-  graduation_year: 2020
-  thesis:
-    title: "MementoMap: A Web Archive Profiling Framework for Efficient Memento Routing"
-    link: https://digitalcommons.odu.edu/computerscience_etds/129/
-  wrapup_blog_post: https://ws-dl.blogspot.com/2020/12/2020-12-31-doctoral-degree-takes.html
-  initial_employment: Internet Archive
+- name: Emily Escamilla
+  twitter_handle: EmilyEscamilla_
+  advisor: Nelson
+  
+- name: Bathsheba Farrow (ABD)
+  twitter_handle: sheissheba
+  google_scholar_id: RP3BU5gAAAAJ&hl
+  advisor: Jayarathna
+  
+- name: Md Javedul Ferdous
+  homepage: https://www.cs.odu.edu/~cs_mferd002/
+  twitter_handle: jaf_ferdous
+  advisor: Ashok
+  
+- name: Hussam Hallak
+  homepage: http://www.cs.odu.edu/~hhallak/
+  twitter_handle: Hussam_A_Hallak
+  advisor: Nelson
+  
+- name: Kritika Garg
+  twitter_handle: kritika_garg
+  google_scholar_id: apXQRYsAAAAJ&hl
+  advisor: Nelson
+  
+- name: Himarsha Jayanetti 
+  homepage: https://www.cs.odu.edu/~hjayanet/
+  twitter_handle: HimarshaJ
+  google_scholar_id: nySd1gIAAAAJ&hl
+  advisor: Weigle
+  
+- name: Yasith Jayawardana
+  homepage: https://about.yasithmilinda.me/
+  twitter_handle: yasithmilinda
+  google_scholar_id: zkvNhE0AAAAJ
+  advisor: Jayarathna 
+  
+- name: Gavindya Jayawardena (ABD)
+  homepage: https://www.cs.odu.edu/~gavindya/
+  twitter_handle: Gavindya2
+  google_scholar_id: LdfjuHAAAAAJ
+  advisor: Jayarathna 
+ 
+- name: Bhanuka Mahanama (ABD)
+  homepage: https://www.cs.odu.edu/~cs_rmaha002/
+  twitter_handle: mahanama94
+  google_scholar_id: db1DUiQAAAAJ
+  advisor: Jayarathna 
+  
+- name: Corren McCoy (ABD)
+  twitter_handle: CorrenMcCoy
+  google_scholar_id: gp6cdH8AAAAJ
+  advisor: Weigle
+  
+- name: Richard Pates 
+  twitter_handle: pates_richard
+  advisor: Wu
+  
+- name: Travis Reid 
+  twitter_handle: TReid803
+  advisor: Weigle
+  
+- name: Lamia Salsabil
+  twitter_handle: liya_lamia
+  google_scholar_id: 7TC5ZCEAAAAJ
+  advisor: Wu
+  
+- name: Mohan Krishna Sunkara
+  twitter_handle: mk344567
+  advisor: Ashok
+  
+- name: Xin Wei
+  twitter_handle: Xin46678113
+  advisor: Wu
+  
+- name: Tarannum Zaki
+  homepage: https://sites.google.com/view/tarannumzaki/home
+  twitter_handle: tarannum_zaki
+  google_scholar_id: L95eiH4AAAAJ&hl
+  advisor: Weigle
   
 ms:
 
@@ -28,20 +103,8 @@ ms:
   twitter_handle: abigail_mabe
   graduation_year: 2021
 
-- name: Dhruv Patel
-  twitter_handle: dhruv_282
+bs:
+
+- name: Abigail Mabe
+  twitter_handle: abigail_mabe
   graduation_year: 2021
-
-- name: Puneeth Bikkasandra Puttaramegowda
-  twitter_handle: PuneethBikks
-  graduation_year: 2020
-
-- name: John Berlin
-  homepage: http://www.cs.odu.edu/~jberlin/
-  twitter_handle: johnaberlin
-  google_scholar_id: dJacdOoAAAAJ
-  graduation_year: 2018
-  thesis:
-    title: "To Relive The Web: A Framework For The Transformation And Archival Replay Of Web Pages"
-    link: https://digitalcommons.odu.edu/computerscience_etds/38
-  wrapup_blog_post: http://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html
