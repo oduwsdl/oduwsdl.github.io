@@ -3,10 +3,9 @@
   <div class="person-image"><img src="assets/images/avatars/{{ students.twitter_handle | default: 'default_profile' }}.jpg" width="100" /></div>
   <div>
     {%- if students.type == "ABD" %}
-    {{ students.name }} (ABD)
-    {%- else %}
-    {{ students.name }}
+    {{ students.name }} <strong>(ABD)</strong>
     {%- endif %}
+    <br />
     {%- if students.homepage %}
     <a class="urllink" href="{{ students.homepage }}" rel="nofollow">{{ students.name }}</a>
     {%- else %}
