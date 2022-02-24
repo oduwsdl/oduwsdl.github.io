@@ -2,6 +2,11 @@
 <div class="person-container">
   <div class="person-image"><img src="assets/images/avatars/{{ students.twitter_handle | default: 'default_profile' }}.jpg" width="100" /></div>
   <div>
+    {%- if students.type == "ABD" %}
+    {{ students.name }} (ABD)
+    {%- else %}
+    {{ students.name }}
+    {%- endif %}
     {%- if students.homepage %}
     <a class="urllink" href="{{ students.homepage }}" rel="nofollow">{{ students.name }}</a>
     {%- else %}
