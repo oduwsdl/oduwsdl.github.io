@@ -21,10 +21,11 @@ phd:
   twitter_handle: EmilyEscamilla_
   advisor: Nelson
   
-- name: Bathsheba Farrow (ABD)
+- name: Bathsheba Farrow 
   twitter_handle: sheissheba
   google_scholar_id: RP3BU5gAAAAJ&hl
   advisor: Jayarathna
+  type: ABD
   
 - name: Md Javedul Ferdous
   homepage: https://www.cs.odu.edu/~cs_mferd002/
@@ -53,22 +54,25 @@ phd:
   google_scholar_id: zkvNhE0AAAAJ
   advisor: Jayarathna 
   
-- name: Gavindya Jayawardena (ABD)
+- name: Gavindya Jayawardena 
   homepage: https://www.cs.odu.edu/~gavindya/
   twitter_handle: Gavindya2
   google_scholar_id: LdfjuHAAAAAJ
   advisor: Jayarathna 
+  type: ABD
  
-- name: Bhanuka Mahanama (ABD)
+- name: Bhanuka Mahanama 
   homepage: https://www.cs.odu.edu/~cs_rmaha002/
   twitter_handle: mahanama94
   google_scholar_id: db1DUiQAAAAJ
   advisor: Jayarathna 
+  type: ABD
   
-- name: Corren McCoy (ABD)
+- name: Corren McCoy 
   twitter_handle: CorrenMcCoy
   google_scholar_id: gp6cdH8AAAAJ
   advisor: Weigle
+  type: ABD
   
 - name: Richard Pates 
   twitter_handle: pates_richard
@@ -96,7 +100,7 @@ phd:
   twitter_handle: tarannum_zaki
   google_scholar_id: L95eiH4AAAAJ&hl
   advisor: Weigle
-  
+
 ms:
 
 - name: Lesley Frew
