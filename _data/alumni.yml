@@ -188,14 +188,14 @@ ms:
   homepage: http://www.cs.odu.edu/~gszalkow/
   graduation_year: 2016
 
-- name: Shawn Jones
-  homepage: http://www.cs.odu.edu/~sjone/
+- name: Shawn M. Jones
+  homepage: https://www.shawnmjones.org/
   twitter_handle: shawnmjones
   google_scholar_id: 97KuWzQAAAAJ
   graduation_year: 2015
   thesis:
     title: "Avoiding Spoilers On MediaWiki Fan Sites Using Memento"
-    link: https://digitalcommons.odu.edu/computerscience_etds/1/
+    link: https://doi.org/10.25777/d8hw-b984
   wrapup_blog_post: http://ws-dl.blogspot.com/2015/04/2015-04-05-from-student-to-researcher.html
 
 - name: Sawood Alam
