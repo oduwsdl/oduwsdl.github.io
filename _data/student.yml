@@ -18,6 +18,7 @@ phd:
   advisor: Nelson
 
 - name: Emily Escamilla
+  homepage: https://elescamilla.github.io
   twitter_handle: EmilyEscamilla_
   advisor: Nelson
   
@@ -49,13 +50,13 @@ phd:
   advisor: Weigle
   
 - name: Yasith Jayawardana
-  homepage: https://about.yasithmilinda.me/
+  homepage: https://www.cs.odu.edu/~cs_pjaya001
   twitter_handle: yasithmilinda
   google_scholar_id: zkvNhE0AAAAJ
   advisor: Jayarathna 
   
 - name: Gavindya Jayawardena 
-  homepage: https://www.cs.odu.edu/~gavindya/
+  homepage: https://www.cs.odu.edu/~cs_hjaya001
   twitter_handle: Gavindya2
   google_scholar_id: LdfjuHAAAAAJ
   advisor: Jayarathna 
@@ -101,6 +102,12 @@ phd:
   google_scholar_id: L95eiH4AAAAJ&hl
   advisor: Weigle
 
+  - name: Yasasi Abeysinghe
+  homepage: https://cs.odu.edu/~cs_yabey001/
+  twitter_handle: Yasasi_Abey
+  google_scholar_id: JJfTSKcAAAAJ
+  advisor: Jayarathna
+  
 ms:
 
 - name: Lesley Frew
