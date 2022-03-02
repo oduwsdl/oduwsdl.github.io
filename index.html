@@ -41,7 +41,8 @@ Indiana University, Emory University, University of California at Berkeley, and 
         </div>
       </div>
 
-      <!-- Faculty Row -->
+      <!-- Faculty Previous Row
+      
       <div id="Faculty" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
 
         <div class="col-xl-12 col-lg-12">
@@ -59,8 +60,24 @@ Indiana University, Emory University, University of California at Berkeley, and 
           </div>
         </div>
       </div>
+-->
+      
+      
+      <!-- Faculty Updated Row -->
+      <div id="Faculty" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
 
-      <!-- Students -->
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>Faculty</h4>
+            
+            {% include faculty_cards.html faculty=site.data.faculty %}
+
+          </div>
+        </div>
+      </div>
+      
+      
+      <!-- Students Previous Row
       <div id="Students" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
 
         <div class="col-xl-12 col-lg-12">
@@ -103,7 +120,30 @@ Indiana University, Emory University, University of California at Berkeley, and 
           </div>
         </div>
       </div>
+-->
 
+ <!-- Students Updated Row -->
+      <div id="Student" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>Students</h4>
+
+            <h5>PhD students</h5>
+
+            {% include student_cards.html student=site.data.student.phd %}
+
+            <h5>MS students</h5>
+
+            {% include student_cards.html student=site.data.student.ms %}
+            
+            <h5>BS students</h5>
+
+            {% include student_cards.html student=site.data.student.bs %}
+
+          </div>
+        </div>
+      </div>
 
       <!-- Alumni -->
       <div id="Alumni" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">

@@ -1,0 +1,18 @@
+{%- for students in include.student %}
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/{{ students.twitter_handle | default: 'default_profile' }}.jpg" width="100" /></div>
+  <div>
+    {%- if students.homepage %}
+    <a class="urllink" href="{{ students.homepage }}" rel="nofollow">{{ students.name }}</a>
+    {%- else %}
+    {{ students.name }}
+    {%- endif %}
+    {%- if students.type == "ABD" %}
+    <strong>(ABD)</strong>
+    {%- endif %}
+    {%- if students.twitter_handle %}<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/{{ students.twitter_handle }}" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>{%- endif %}
+    {%- if students.google_scholar_id %}<a class="urllink" href="https://scholar.google.com/citations?user={{ students.google_scholar_id }}" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>{%- endif %}
+    ({{ students.advisor }})
+  </div>
+</div>
+{%- endfor %}
