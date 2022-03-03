@@ -1,5 +1,11 @@
 phd:
 
+- name: Yasasi Abeysinghe
+  homepage: https://cs.odu.edu/~cs_yabey001/
+  twitter_handle: Yasasi_Abey
+  google_scholar_id: JJfTSKcAAAAJ
+  advisor: Jayarathna
+  
 - name: Kehinde Ajayi
   homepage: https://www.cs.odu.edu/~kajay/
   twitter_handle: AjayiKehindep
@@ -101,12 +107,6 @@ phd:
   twitter_handle: tarannum_zaki
   google_scholar_id: L95eiH4AAAAJ&hl
   advisor: Weigle
-
-- name: Yasasi Abeysinghe
-  homepage: https://cs.odu.edu/~cs_yabey001/
-  twitter_handle: Yasasi_Abey
-  google_scholar_id: JJfTSKcAAAAJ
-  advisor: Jayarathna
   
 ms:
 
@@ -120,11 +120,6 @@ ms:
 - name: Yash Prakash
   twitter_handle: LunaticBugbear
   advisor: Ashok
-
-- name: Nauman Siddique 
-  homepage: https://www.cs.odu.edu/~msiddique/
-  twitter_handle: m_nsiddique
-  advisor: Nelson
   
 - name: Winston Shields
   homepage: https://www.linkedin.com/in/winston-shields-019b01188/
