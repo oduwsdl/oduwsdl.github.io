@@ -146,7 +146,11 @@ phd:
   initial_employment: Harding University
 
 ms:
-
+- name: MD Sami Uddin
+  twitter_handle: Rayan12586930
+  google_scholar_id: 9GJoF4AAAAAJ&hl
+  graduation_year: 2022 
+  
 - name: Nauman Siddique 
   homepage: https://www.cs.odu.edu/~msiddique/
   twitter_handle: m_nsiddique
