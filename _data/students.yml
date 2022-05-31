@@ -118,6 +118,9 @@ ms:
 - name: Martin Gryder
   advisor: Wu
  
+- name: Saad Khan
+  advisor: Wu
+  
 - name: Yash Prakash
   twitter_handle: LunaticBugbear
   advisor: Ashok
@@ -125,16 +128,8 @@ ms:
 - name: Winston Shields
   homepage: https://www.linkedin.com/in/winston-shields-019b01188/
   advisor: Wu  
-  
-- name: MD Sami Uddin
-  twitter_handle: Rayan12586930
-  google_scholar_id: 9GJoF4AAAAAJ&hl
-  advisor: Wu
 
 bs:
-
-- name: Kyle Canady 
-  advisor: Wu
-  
-- name: Ryan Hiltabrand
-  advisor: Wu
+- name: Dominik Soos
+  twitter_handle: DomSoos
+  advisor: Wu 
