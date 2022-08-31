@@ -82,11 +82,7 @@ phd:
   google_scholar_id: gp6cdH8AAAAJ
   advisor: Weigle
   type: ABD
-  
-- name: Richard Pates 
-  twitter_handle: pates_richard
-  advisor: Wu
-  
+    
 - name: Travis Reid 
   twitter_handle: TReid803
   advisor: Weigle
@@ -126,11 +122,6 @@ ms:
 - name: Yash Prakash
   twitter_handle: LunaticBugbear
   advisor: Ashok
-  
-- name: Winston Shields
-  homepage: https://www.linkedin.com/in/winston-shields-019b01188/
-  twitter_handle: winstonshields1
-  advisor: Wu  
 
 bs:
 - name: Dominik Soos
