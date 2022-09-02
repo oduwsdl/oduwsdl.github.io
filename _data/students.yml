@@ -11,7 +11,12 @@ phd:
   twitter_handle: AjayiKehindep
   google_scholar_id: tL6pCpkAAAAJ&hl
   advisor: Wu
-  
+
+- name: David Calano
+  homepage: https://dcalano.dev
+  twitter_handle: lifefromalaptop
+  advisor: Nelson
+
 - name: Muntabir Hasan Choudhury
   homepage: https://www.cs.odu.edu/~cs_mchou001/
   twitter_handle: TasinChoudhury
