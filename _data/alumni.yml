@@ -1,4 +1,12 @@
 phd:
+  
+- name: Corren McCoy 
+  twitter_handle: CorrenMcCoy
+  google_scholar_id: gp6cdH8AAAAJ
+  graduation_year: 2022
+  thesis:
+    title: "A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities"
+  initial_employment: G2 Ops
 
 - name: Shawn M. Jones
   homepage: https://www.shawnmjones.org/
