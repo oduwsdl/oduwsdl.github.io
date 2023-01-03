@@ -85,7 +85,9 @@ phd:
   type: ABD
     
 - name: Travis Reid 
+  homepage: https://cs.odu.edu/~cs_treid003
   twitter_handle: TReid803
+  google_scholar_id: KMewqNwAAAAJ
   advisor: Weigle
   
 - name: Lamia Salsabil
