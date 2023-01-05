@@ -96,8 +96,10 @@ phd:
   google_scholar_id: 7TC5ZCEAAAAJ
   advisor: Wu
   
-- name: Mohan Krishna Sunkara
+- name: Sunkara Mohan Krishna
+  homepage: https://www.cs.odu.edu/~cs_msunk001/
   twitter_handle: mk344567
+  google_scholar_id: MbQDa7wAAAAJ&hl
   advisor: Ashok
   
 - name: Xin Wei
