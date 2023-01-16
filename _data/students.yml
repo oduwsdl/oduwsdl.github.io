@@ -126,6 +126,12 @@ phd:
   google_scholar_id: 
   advisor: Ashok
   
+- name: Yash Prakash
+  homepage: https://cs.odu.edu/~cs_yprak001/
+  twitter_handle: LunaticBugbear
+  google_scholar_id: DOlm7Q8AAAAJ&hl
+  advisor: Ashok
+  
 ms:
 
 - name: Lesley Frew
@@ -138,10 +144,6 @@ ms:
 - name: Saad Khan
   advisor: Wu
   
-- name: Yash Prakash
-  twitter_handle: LunaticBugbear
-  advisor: Ashok
-
 bs:
 - name: Dominik Soos
   twitter_handle: DomSoos
