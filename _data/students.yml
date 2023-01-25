@@ -108,6 +108,12 @@ phd:
   google_scholar_id: MbQDa7wAAAAJ&hl
   advisor: Ashok
   
+  - name: Nithiya Venkatraman
+  homepage: https://www.linkedin.com/in/nithiya-v-8515796b
+  twitter_handle: Nithiyavenkat07
+  google_scholar_id: 
+  advisor: Ashok
+  
 - name: Xin Wei
   homepage: https://xinw6.github.io/
   twitter_handle: Xin9Xin
@@ -119,12 +125,6 @@ phd:
   twitter_handle: tarannum_zaki
   google_scholar_id: L95eiH4AAAAJ&hl
   advisor: Weigle
-
-- name: Nithiya Venkatraman
-  homepage: https://www.linkedin.com/in/nithiya-v-8515796b
-  twitter_handle: Nithiyavenkat07
-  google_scholar_id: 
-  advisor: Ashok
   
 - name: Yash Prakash
   homepage: https://cs.odu.edu/~cs_yprak001/
