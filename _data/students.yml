@@ -5,114 +5,96 @@ phd:
   twitter_handle: Yasasi_Abey
   google_scholar_id: JJfTSKcAAAAJ
   advisor: Jayarathna
-
-- name: Bathsheba Farrow 
-  twitter_handle: sheissheba
-  google_scholar_id: RP3BU5gAAAAJ&hl
-  advisor: Jayarathna
-  type: ABD
-
-- name: Bhanuka Mahanama 
-  homepage: https://www.cs.odu.edu/~cs_rmaha002/
-  twitter_handle: mahanama94
-  google_scholar_id: db1DUiQAAAAJ
-  advisor: Jayarathna 
-  type: ABD
-
- - name: Brian Llinás
-  homepage: https://www.linkedin.com/in/brian-jesus-llinas-marimon/
-  twitter_handle: bllin001
-  google_scholar_id: nE29OcUAAAAJ&hl=en
-  advisor: Nelson
-
-- name: David Calano
-  homepage: https://dcalano.dev
-  twitter_handle: lifefromalaptop
-  advisor: Nelson
-
-- name: Emily Escamilla
-  homepage: https://elescamilla.github.io
-  twitter_handle: EmilyEscamilla_
-  google_scholar_id: kKcPKDwAAAAJ
-  advisor: Nelson
-
-- name: Gavindya Jayawardena 
-  homepage: https://www.cs.odu.edu/~cs_hjaya001
-  twitter_handle: Gavindya2
-  google_scholar_id: LdfjuHAAAAAJ
-  advisor: Jayarathna 
-  type: ABD
-
-- name: Himarsha Jayanetti 
-  homepage: https://himarshaj.github.io/
-  twitter_handle: HimarshaJ
-  google_scholar_id: nySd1gIAAAAJ&hl
-  advisor: Weigle
-
-- name: Hussam Hallak
-  homepage: https://www.cs.odu.edu/~cs_hhall001/
-  twitter_handle: Hussam_A_Hallak
-  google_scholar_id: akMFH9sAAAAJ&hl=en
-  advisor: Nelson
-
-- name: Jimmy Ecker
-  homepage: https://www.cs.odu.edu/~jecker/
-  twitter_handle: jimmy_ecker
-  google_scholar_id: WdWJctQAAAAJ
-  advisor: Nelson
-
+  
 - name: Kehinde Ajayi
   homepage: https://www.cs.odu.edu/~kajay/
   twitter_handle: AjayiKehindep
   google_scholar_id: tL6pCpkAAAAJ&hl
   advisor: Wu
-
-- name: Kritika Garg
-  twitter_handle: kritika_garg
-  google_scholar_id: apXQRYsAAAAJ&hl
+  
+- name: David Calano
+  homepage: https://dcalano.dev
+  twitter_handle: lifefromalaptop
   advisor: Nelson
-
-- name: Lamia Salsabil
-  homepage: https://liyalamia.github.io/Portfolio/
-  twitter_handle: liya_lamia
-  google_scholar_id: 7TC5ZCEAAAAJ
-  advisor: Wu
-
-- name: Md Javedul Ferdous
-  homepage: https://www.cs.odu.edu/~cs_mferd002/
-  twitter_handle: jaf_ferdous
-  google_scholar_id: _cuPy0wAAAAJ&hl
-  advisor: Ashok
 
 - name: Muntabir Hasan Choudhury
   homepage: https://www.cs.odu.edu/~cs_mchou001/
   twitter_handle: TasinChoudhury
   google_scholar_id: HudTafsAAAAJ&hl
   advisor: Wu
+  
+ - name: Jimmy Ecker
+  homepage: https://www.cs.odu.edu/~jecker/
+  twitter_handle: jimmy_ecker
+  google_scholar_id: WdWJctQAAAAJ
+  advisor: Nelson
 
-- name: Nithiya Venkatraman
-  homepage: https://www.linkedin.com/in/nithiya-v-8515796b
-  twitter_handle: Nithiyavenkat07
-  google_scholar_id: 
+- name: Bathsheba Farrow 
+  twitter_handle: sheissheba
+  google_scholar_id: RP3BU5gAAAAJ&hl
+  advisor: Jayarathna
+  type: ABD
+  
+- name: Md Javedul Ferdous
+  homepage: https://www.cs.odu.edu/~cs_mferd002/
+  twitter_handle: jaf_ferdous
+  google_scholar_id: _cuPy0wAAAAJ&hl
   advisor: Ashok
+  
+ - name: Kritika Garg
+  twitter_handle: kritika_garg
+  google_scholar_id: apXQRYsAAAAJ&hl
+  advisor: Nelson 
+  
+ - name: Hussam Hallak
+  homepage: https://www.cs.odu.edu/~cs_hhall001/
+  twitter_handle: Hussam_A_Hallak
+  google_scholar_id: akMFH9sAAAAJ&hl=en
+  advisor: Nelson
 
+ - name: Himarsha Jayanetti 
+  homepage: https://himarshaj.github.io/
+  twitter_handle: HimarshaJ
+  google_scholar_id: nySd1gIAAAAJ&hl
+  advisor: Weigle
+  
+ - name: Yasith Jayawardana
+  homepage: https://www.cs.odu.edu/~cs_pjaya001
+  twitter_handle: yasithmilinda
+  google_scholar_id: zkvNhE0AAAAJ
+  advisor: Jayarathna 
+ 
+ - name: Gavindya Jayawardena 
+  homepage: https://www.cs.odu.edu/~cs_hjaya001
+  twitter_handle: Gavindya2
+  google_scholar_id: LdfjuHAAAAAJ
+  advisor: Jayarathna 
+  type: ABD
+ 
 - name: Satwik Ram Kodandaram
   homepage: https://www.linkedin.com/in/satwik-ram-k-4a8469189/
   twitter_handle: satwikram29
   google_scholar_id: pPFFz6AAAAAJ&hl
   advisor: Ashok
+ 
+- name: Brian Llinás
+  homepage: https://www.linkedin.com/in/brian-jesus-llinas-marimon/
+  twitter_handle: bllin001
+  google_scholar_id: nE29OcUAAAAJ&hl=en
+  advisor: Nelson
+ 
+- name: Bhanuka Mahanama 
+  homepage: https://www.cs.odu.edu/~cs_rmaha002/
+  twitter_handle: mahanama94
+  google_scholar_id: db1DUiQAAAAJ
+  advisor: Jayarathna 
+  type: ABD
   
-- name: Sunkara Mohan Krishna
-  homepage: https://www.cs.odu.edu/~cs_msunk001/
-  twitter_handle: mk344567
-  google_scholar_id: MbQDa7wAAAAJ&hl
+- name: Yash Prakash
+  homepage: https://cs.odu.edu/~cs_yprak001/
+  twitter_handle: LunaticBugbear
+  google_scholar_id: DOlm7Q8AAAAJ&hl
   advisor: Ashok
-
-- name: Tarannum Zaki
-  homepage: https://sites.google.com/view/tarannumzaki/home
-  twitter_handle: tarannum_zaki
-  google_scholar_id: L95eiH4AAAAJ&hl
-  advisor: Weigle
 
 - name: Travis Reid 
   homepage: https://cs.odu.edu/~cs_treid003
@@ -120,25 +102,35 @@ phd:
   google_scholar_id: KMewqNwAAAAJ
   advisor: Weigle
 
+- name: Lamia Salsabil
+  homepage: https://liyalamia.github.io/Portfolio/
+  twitter_handle: liya_lamia
+  google_scholar_id: 7TC5ZCEAAAAJ
+  advisor: Wu
+  
+- name: Sunkara Mohan Krishna
+  homepage: https://www.cs.odu.edu/~cs_msunk001/
+  twitter_handle: mk344567
+  google_scholar_id: MbQDa7wAAAAJ&hl
+  advisor: Ashok 
+  
+- name: Nithiya Venkatraman
+  homepage: https://www.linkedin.com/in/nithiya-v-8515796b
+  twitter_handle: Nithiyavenkat07
+  google_scholar_id: 
+  advisor: Ashok
+  
 - name: Xin Wei
   homepage: https://xinw6.github.io/
   twitter_handle: Xin9Xin
   google_scholar_id: 18XjjSgAAAAJ&hl=en
   advisor: Wu
-
-
   
-- name: Yasith Jayawardana
-  homepage: https://www.cs.odu.edu/~cs_pjaya001
-  twitter_handle: yasithmilinda
-  google_scholar_id: zkvNhE0AAAAJ
-  advisor: Jayarathna 
-  
-- name: Yash Prakash
-  homepage: https://cs.odu.edu/~cs_yprak001/
-  twitter_handle: LunaticBugbear
-  google_scholar_id: DOlm7Q8AAAAJ&hl
-  advisor: Ashok
+- name: Tarannum Zaki
+  homepage: https://sites.google.com/view/tarannumzaki/home
+  twitter_handle: tarannum_zaki
+  google_scholar_id: L95eiH4AAAAJ&hl
+  advisor: Weigle  
   
 ms:
 
