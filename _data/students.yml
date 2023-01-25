@@ -23,10 +23,16 @@ phd:
   google_scholar_id: HudTafsAAAAJ&hl
   advisor: Wu
   
- - name: Jimmy Ecker
+- name: Jimmy Ecker
   homepage: https://www.cs.odu.edu/~jecker/
   twitter_handle: jimmy_ecker
   google_scholar_id: WdWJctQAAAAJ
+  advisor: Nelson
+  
+- name: Emily Escamilla
+  homepage: https://elescamilla.github.io
+  twitter_handle: EmilyEscamilla_
+  google_scholar_id: kKcPKDwAAAAJ
   advisor: Nelson
 
 - name: Bathsheba Farrow 
