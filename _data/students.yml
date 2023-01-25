@@ -76,26 +76,14 @@ phd:
   google_scholar_id: LdfjuHAAAAAJ
   advisor: Jayarathna 
   type: ABD
-  
- - name: Satwik Ram Kodandaram
-  homepage: https://www.linkedin.com/in/satwik-ram-k-4a8469189/
-  twitter_handle: satwikram29
-  google_scholar_id: pPFFz6AAAAAJ&hl
-  advisor: Ashok
-  
+ 
 - name: Bhanuka Mahanama 
   homepage: https://www.cs.odu.edu/~cs_rmaha002/
   twitter_handle: mahanama94
   google_scholar_id: db1DUiQAAAAJ
   advisor: Jayarathna 
   type: ABD
-  
-- name: Yash Prakash
-  homepage: https://cs.odu.edu/~cs_yprak001/
-  twitter_handle: LunaticBugbear
-  google_scholar_id: DOlm7Q8AAAAJ&hl
-  advisor: Ashok
-  
+    
 - name: Travis Reid 
   homepage: https://cs.odu.edu/~cs_treid003
   twitter_handle: TReid803
@@ -108,15 +96,16 @@ phd:
   google_scholar_id: 7TC5ZCEAAAAJ
   advisor: Wu
   
+- name: Satwik Ram Kodandaram
+  homepage: https://www.linkedin.com/in/satwik-ram-k-4a8469189/
+  twitter_handle: satwikram29
+  google_scholar_id: pPFFz6AAAAAJ&hl
+  advisor: Ashok
+  
 - name: Sunkara Mohan Krishna
   homepage: https://www.cs.odu.edu/~cs_msunk001/
   twitter_handle: mk344567
   google_scholar_id: MbQDa7wAAAAJ&hl
-  advisor: Ashok
-  
-- name: Nithiya Venkatraman
-  homepage: https://www.linkedin.com/in/nithiya-v-8515796b
-  twitter_handle: Nithiyavenkat07
   advisor: Ashok
   
 - name: Xin Wei
@@ -130,6 +119,18 @@ phd:
   twitter_handle: tarannum_zaki
   google_scholar_id: L95eiH4AAAAJ&hl
   advisor: Weigle
+
+- name: Nithiya Venkatraman
+  homepage: https://www.linkedin.com/in/nithiya-v-8515796b
+  twitter_handle: Nithiyavenkat07
+  google_scholar_id: 
+  advisor: Ashok
+  
+- name: Yash Prakash
+  homepage: https://cs.odu.edu/~cs_yprak001/
+  twitter_handle: LunaticBugbear
+  google_scholar_id: DOlm7Q8AAAAJ&hl
+  advisor: Ashok
   
 ms:
 
