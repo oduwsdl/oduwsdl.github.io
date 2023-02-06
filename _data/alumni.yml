@@ -155,9 +155,14 @@ phd:
 
 ms:
 - name: MD Sami Uddin
-  twitter_handle: Rayan12586930
+  homepage: https://rayansami.github.io/
+  twitter_handle: usersami7
   google_scholar_id: 9GJoF4AAAAAJ&hl
   graduation_year: 2022 
+  thesis:
+    title: "TransParsCit: A Transformer-Based Citation Parser Trained on Large-Scale Synthesized Data"
+    link: https://digitalcommons.odu.edu/computerscience_etds/133/
+  initial_employment: Virginia Marine Resources Commission
   
 - name: Nauman Siddique 
   homepage: https://www.cs.odu.edu/~msiddique/
