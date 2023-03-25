@@ -1,11 +1,5 @@
 phd:
 
-- name: Brian D. Hanson, Jr.
-  homepage: https://bhans003.wixsite.com/website-70
-  twitter_handle: bdhansonjr
-  google_scholar_id: pha4Hi8AAAAJ
-  advisor: Jayarathna
-
 - name: Yasasi Abeysinghe
   homepage: https://cs.odu.edu/~cs_yabey001/
   twitter_handle: Yasasi_Abey
@@ -58,7 +52,13 @@ phd:
   twitter_handle: Hussam_A_Hallak
   google_scholar_id: akMFH9sAAAAJ&hl=en
   advisor: Nelson
-  
+
+- name: Brian D. Hanson, Jr.
+  homepage: https://bhans003.wixsite.com/website-70
+  twitter_handle: bdhansonjr
+  google_scholar_id: pha4Hi8AAAAJ
+  advisor: Jayarathna
+
 - name: Kritika Garg
   twitter_handle: kritika_garg
   google_scholar_id: apXQRYsAAAAJ&hl
