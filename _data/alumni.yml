@@ -275,12 +275,15 @@ ms:
   graduation_year: 2009
 
 - name: Rabia Haq
+  homepage: https://www.linkedin.com/in/rabiahaq
+  google_scholar_id: kltmQFgAAAAJ
   graduation_year: 2008
   thesis:
     title: "Using Timed-Release Cryptography to Mitigate Preservation Risk of Embargo Periods"
     link: https://digitalcommons.odu.edu/computerscience_etds/26/
 
 - name: Olena Hunsicker
+  homepage: https://www.linkedin.com/in/olena-hunsicker-4528b110/
   graduation_year: 2008
 
 - name: Venkata Sai Krishna Kamineni
@@ -302,6 +305,7 @@ ms:
   graduation_year: 2006
 
 - name: Aravind Elango
+  homepage: https://www.linkedin.com/in/aravind-elango
   graduation_year: 2005
 
 - name: Giridhar Manepalli
@@ -311,9 +315,11 @@ ms:
   graduation_year: 2005
 
 - name: Daniel Swaney
+  homepage: https://www.linkedin.com/in/danswaney/
   graduation_year: 2005
 
 - name: Terry Harrison
+  homepage: https://www.linkedin.com/in/terryleeharrison/
   graduation_year: 2005
   thesis:
     title: "Opal: In Vivo Based Preservation Framework for Locating Lost Web Pages"
