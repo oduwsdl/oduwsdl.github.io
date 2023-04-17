@@ -245,10 +245,12 @@ ms:
 
 - name: Kalpesh Padia
   homepage: http://www4.ncsu.edu/~kpadia/
+  twitter_handle: kalpeshpadia
+  google_scholar_id: rmd2ndEAAAAJ
   graduation_year: 2012
   thesis:
     title: "Visualizing Digital Collections at Archive-It"
-    link: https://digitalcommons.odu.edu/computerscience_etds/6/
+    link: https://digitalcommons.odu.edu/computerscience_etds/4/
   wrapup_blog_post: http://ws-dl.blogspot.com/2012/08/2012-08-10-ms-thesis-visualizing.html
 
 - name: Carlton Northern
