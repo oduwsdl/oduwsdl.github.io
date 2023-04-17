@@ -254,21 +254,30 @@ ms:
   wrapup_blog_post: http://ws-dl.blogspot.com/2012/08/2012-08-10-ms-thesis-visualizing.html
 
 - name: Carlton Northern
+  twitter_handle: carltonnorthern
   graduation_year: 2011
 
 - name: Matthias Prellwitz
+  google_scholar_id: 0VaDS7wAAAAJ
+  homepage: https://www.linkedin.com/in/matthiasprellwitz/
   graduation_year: 2010
 
 - name: Jeb Ware
+  homepage: https://www.linkedin.com/in/jebware/
   graduation_year: 2010
 
 - name: Scott Ainsworth
+  homepage: https://www.linkedin.com/in/scottainsworth/
+  google_scholar_id: kPMkdxwAAAAJ
+  twitter_handle: ScottGAinsworth
   graduation_year: 2010
 
 - name: Jeffery Shipman
+  hompage: https://www.linkedin.com/in/jeffery-shipman-ba380337/
   graduation_year: 2010
 
 - name: Sudhir Koneru
+  hompage: https://www.linkedin.com/in/konerusudhir/
   graduation_year: 2009
 
 - name: Venkata Potta
@@ -290,18 +299,21 @@ ms:
   graduation_year: 2008
 
 - name: Satish Lakkoju
+  homepage: https://www.linkedin.com/in/satish-lakkoju-059a39a/
   graduation_year: 2008
 
 - name: Krishnan Ganesh Madras
   graduation_year: 2008
 
 - name: Amine Benjelloun
+  homepage: https://www.linkedin.com/in/amine-benjelloun-0842a6161/
   graduation_year: 2007
 
 - name: Manoranjan Magudam
   graduation_year: 2007
 
 - name: Ignacio Garcia del Campo
+  homepage: https://ignaciogc.com
   graduation_year: 2006
 
 - name: Aravind Elango
@@ -309,9 +321,11 @@ ms:
   graduation_year: 2005
 
 - name: Giridhar Manepalli
+  homepage: https://www.linkedin.com/in/giridharmanepalli/
   graduation_year: 2005
 
 - name: Suchitra Manepalli
+  homepage: https://www.linkedin.com/in/suchitra-manepalli-2787186/
   graduation_year: 2005
 
 - name: Daniel Swaney
@@ -326,7 +340,9 @@ ms:
     link: https://digitalcommons.odu.edu/computerscience_etds/23/
 
 - name: Sheffan Chan
+  homepage: https://www.linkedin.com/in/sheffan-chan-4735bb9/
   graduation_year: 2004
 
 - name: Thomas Lutkenhouse
+  homepage: https://www.linkedin.com/in/thom-lutkenhouse-pmp-76685316/
   graduation_year: 2004
