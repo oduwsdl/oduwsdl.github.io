@@ -156,6 +156,16 @@ phd:
   initial_employment: Harding University
 
 ms:
+- name: Himarsha R. Jayanetti
+  homepage: https://himarshaj.github.io/
+  twitter_handle: himarshaj
+  google_scholar_id: nySd1gIAAAAJ
+  graduation_year: 2023 
+  thesis:
+    title: "Supporting Account-based Queries for Archived Instagram Posts"
+    link: https://github.com/himarshaj/himarshaj.github.io/blob/master/Resources/MSThesis_SupportingIGPostsIA.pdf
+  wrapup_blog_post: https://ws-dl.blogspot.com/2023/06/2023-06-15-milestone-achieved.html
+
 - name: Sami Uddin
   homepage: https://rayansami.github.io/
   twitter_handle: usersami7
