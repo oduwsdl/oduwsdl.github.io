@@ -75,6 +75,7 @@ phd:
   twitter_handle: yasithmilinda
   google_scholar_id: zkvNhE0AAAAJ
   advisor: Jayarathna 
+  type: ABD
   
 - name: Gavindya Jayawardena 
   homepage: https://www.cs.odu.edu/~cs_hjaya001
@@ -94,7 +95,6 @@ phd:
   twitter_handle: mahanama94
   google_scholar_id: db1DUiQAAAAJ
   advisor: Jayarathna 
-  type: ABD
     
 - name: Travis Reid 
   homepage: https://cs.odu.edu/~cs_treid003
