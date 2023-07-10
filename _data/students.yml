@@ -150,17 +150,12 @@ ms:
   twitter_handle: lesley_elis
   google_scholar_id: JmEpqjMAAAAJ
   advisor: Weigle
-  
-- name: Martin Gryder
-  advisor: Wu
  
-- name: Saad Khan
+- name: Dominik Soós
+  twitter_handle: DomSoos
   advisor: Wu
   
 bs:
-- name: Dominik Soos
-  twitter_handle: DomSoos
-  advisor: Wu 
 
 - name: Caleb Bradford
   twitter_handle: calebkbradford
