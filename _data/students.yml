@@ -11,7 +11,13 @@ phd:
   twitter_handle: AjayiKehindep
   google_scholar_id: tL6pCpkAAAAJ&hl
   advisor: Wu
-
+  
+  - name: Jhon G. Botello
+  homepage: https://www.linkedin.com/in/jhongbotello/
+  twitter_handle: jhon_gbm12
+  google_scholar_id: x6VeC7sAAAAJ&hl
+  advisor: Weigle
+  
 - name: David Calano
   homepage: https://dcalano.dev
   twitter_handle: lifefromalaptop
@@ -124,12 +130,6 @@ phd:
   homepage: https://www.linkedin.com/in/kumushini-thennakoon/
   twitter_handle: KumushiniT
   advisor: Nelson
-
-  - name: Jhon G. Botello
-  homepage: https://www.linkedin.com/in/jhongbotello/
-  twitter_handle: jhon_gbm12
-  google_scholar_id: x6VeC7sAAAAJ&hl
-  advisor: Weigle
   
 - name: Xin Wei
   homepage: https://xinw6.github.io/
