@@ -156,6 +156,17 @@ phd:
   initial_employment: Harding University
 
 ms:
+
+- name: Emily Escamilla
+  homepage: https://elescamilla.github.io
+  twitter_handle: EmilyEscamilla_
+  google_scholar_id: kKcPKDwAAAAJ
+  graduation_year: 2023
+  thesis:
+    title: "Assessing the Prevalence and Archival Rate of URIs to Git Hosting Platforms in Scholarly Publications"
+    link: https://digitalcommons.odu.edu/computerscience_etds/
+  wrapup_blog_post: https://ws-dl.blogspot.com/2023/08/2023-08-31-end-of-chapter.html
+  
 - name: Himarsha R. Jayanetti
   homepage: https://himarshaj.github.io/
   twitter_handle: HimarshaJ
@@ -163,7 +174,7 @@ ms:
   graduation_year: 2023 
   thesis:
     title: "Supporting Account-based Queries for Archived Instagram Posts"
-    link: https://github.com/himarshaj/himarshaj.github.io/blob/master/Resources/MSThesis_SupportingIGPostsIA.pdf
+    link: https://digitalcommons.odu.edu/computerscience_etds/139
   wrapup_blog_post: https://ws-dl.blogspot.com/2023/06/2023-06-15-milestone-achieved.html
 
 - name: Sami Uddin
