@@ -155,6 +155,10 @@ phd:
   
 ms:
 
+- name: Caleb Bradford
+  twitter_handle: calebkbradford
+  advisor: Nelson
+  
 - name: Lesley Frew
   homepage: https://lesleyodu.github.io/
   twitter_handle: lesley_elis
@@ -167,6 +171,4 @@ ms:
   
 bs:
 
-- name: Caleb Bradford
-  twitter_handle: calebkbradford
-  advisor: Nelson
+
