@@ -53,6 +53,12 @@ phd:
   google_scholar_id: _cuPy0wAAAAJ&hl
   advisor: Ashok
   
+- name: Lesley Frew
+  homepage: https://lesleyodu.github.io/
+  twitter_handle: lesley_elis
+  google_scholar_id: JmEpqjMAAAAJ
+  advisor: Weigle
+  
 - name: Hussam Hallak
   homepage: https://www.cs.odu.edu/~cs_hhall001/
   twitter_handle: Hussam_A_Hallak
@@ -69,12 +75,14 @@ phd:
   twitter_handle: kritika_garg
   google_scholar_id: apXQRYsAAAAJ&hl
   advisor: Nelson
+  type: ABD
   
 - name: Himarsha Jayanetti 
   homepage: https://himarshaj.github.io/
   twitter_handle: HimarshaJ
   google_scholar_id: nySd1gIAAAAJ&hl
   advisor: Weigle
+  type: ABD
   
 - name: Yasith Jayawardana
   homepage: https://www.cs.odu.edu/~cs_pjaya001
@@ -112,6 +120,7 @@ phd:
   twitter_handle: TReid803
   google_scholar_id: KMewqNwAAAAJ
   advisor: Weigle
+  type: ABD
   
 - name: Lamia Salsabil
   homepage: https://liyalamia.github.io/Portfolio/
@@ -163,12 +172,6 @@ ms:
 - name: Caleb Bradford
   twitter_handle: calebkbradford
   advisor: Nelson
-  
-- name: Lesley Frew
-  homepage: https://lesleyodu.github.io/
-  twitter_handle: lesley_elis
-  google_scholar_id: JmEpqjMAAAAJ
-  advisor: Weigle
  
 - name: Dominik Soós
   twitter_handle: DomSoos
