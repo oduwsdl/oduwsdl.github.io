@@ -1,4 +1,29 @@
 phd:
+- name: Yasith Jayawardana
+  homepage: https://www.cs.odu.edu/~cs_pjaya001
+  twitter_handle: yasithmilinda
+  google_scholar_id: zkvNhE0AAAAJ
+  graduation_year: 2024
+  thesis:
+    title: "StreamingHub: A Realtime Biosignal Processing Framework for Lab Scale Experimentation"
+  initial_employment: Georgia Institute of Technology 
+
+- name: Gavindya Jayawardena 
+  homepage: https://www.cs.odu.edu/~cs_hjaya001
+  twitter_handle: Gavindya2
+  google_scholar_id: LdfjuHAAAAAJ
+  graduation_year: 2024
+  thesis:
+    title: "RAEMAP: Real-time Advanced Eye Movements Analysis Pipeline"
+  initial_employment: University of Texas at Austin
+  
+- name: Bathsheba Farrow 
+  twitter_handle: sheissheba
+  google_scholar_id: RP3BU5gAAAAJ&hl
+  graduation_year: 2024
+  thesis:
+    title: "A Microservices Approach to EEG Research in the Public Cloud"
+  initial_employment: Naval Surface Warfare Center
   
 - name: Corren McCoy 
   twitter_handle: CorrenMcCoy
