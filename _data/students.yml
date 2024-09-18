@@ -41,12 +41,6 @@ phd:
   google_scholar_id: WdWJctQAAAAJ
   advisor: Nelson
   
-- name: Bathsheba Farrow 
-  twitter_handle: sheissheba
-  google_scholar_id: RP3BU5gAAAAJ&hl
-  advisor: Jayarathna
-  type: ABD
-  
 - name: Md Javedul Ferdous
   homepage: https://www.cs.odu.edu/~cs_mferd002/
   twitter_handle: jaf_ferdous
@@ -65,12 +59,6 @@ phd:
   google_scholar_id: akMFH9sAAAAJ&hl=en
   advisor: Nelson
 
-- name: Brian D. Hanson, Jr.
-  homepage: https://bhans003.wixsite.com/website-70
-  twitter_handle: bdhansonjr
-  google_scholar_id: pha4Hi8AAAAJ
-  advisor: Jayarathna
-
 - name: Kritika Garg
   twitter_handle: kritika_garg
   google_scholar_id: apXQRYsAAAAJ&hl
@@ -82,20 +70,6 @@ phd:
   twitter_handle: HimarshaJ
   google_scholar_id: nySd1gIAAAAJ&hl
   advisor: Weigle
-  type: ABD
-  
-- name: Yasith Jayawardana
-  homepage: https://www.cs.odu.edu/~cs_pjaya001
-  twitter_handle: yasithmilinda
-  google_scholar_id: zkvNhE0AAAAJ
-  advisor: Jayarathna 
-  type: ABD
-  
-- name: Gavindya Jayawardena 
-  homepage: https://www.cs.odu.edu/~cs_hjaya001
-  twitter_handle: Gavindya2
-  google_scholar_id: LdfjuHAAAAAJ
-  advisor: Jayarathna 
   type: ABD
   
 - name: Brian Llinás
