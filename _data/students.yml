@@ -112,7 +112,12 @@ phd:
   homepage: https://kumushini.github.io/
   twitter_handle: KumushiniT
   advisor: Jayarathna
-  
+
+- name: Dominik Soós
+  homepage: https://www.cs.odu.edu/~cs_dsoos001/
+  twitter_handle: DomSoos
+  advisor: Wu
+    
 - name: Xin Wei
   homepage: https://xinw6.github.io/
   twitter_handle: Xin9Xin
@@ -147,10 +152,6 @@ ms:
   twitter_handle: calebkbradford
   advisor: Nelson
  
-- name: Dominik Soós
-  twitter_handle: DomSoos
-  advisor: Wu
-  
 bs:
 
 
