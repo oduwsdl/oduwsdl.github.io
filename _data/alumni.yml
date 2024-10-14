@@ -1,5 +1,37 @@
 phd:
+
+- name: Yasith Jayawardana 
+  homepage: https://yasith.dev/
+  twitter_handle: yasithmilinda
+  google_scholar_id: zkvNhE0AAAAJ
+  graduation_year: 2024
+  thesis:
+    title: "Streaminghub - A Realtime Biosignal Processing Framework for Lab Scale Experimentation"
+    link: https://digitalcommons.odu.edu/computerscience_etds/182/
+  wrapup_blog_post: https://ws-dl.blogspot.com/2024/10/2024-10-03-end-of-long-journey.html
+  initial_employment: Georgia Institute of Technology
+
+- name: Gavindya Jayawardena 
+  homepage: https://gavindya.github.io/
+  twitter_handle: Gavindya2
+  google_scholar_id: LdfjuHAAAAAJ
+  graduation_year: 2024
+  thesis:
+    title: "RAEMAP: Real-Time Advanced Eye Movements Analysis Pipeline"
+    link: https://digitalcommons.odu.edu/computerscience_etds/174/
+  wrapup_blog_post: https://ws-dl.blogspot.com/2024/09/gavindya-phd-wrap-up.html
+  initial_employment: The University of Texas at Austin
   
+- name: Bathsheba Farrow 
+  homepage: https://bathshebafarrow.github.io/
+  twitter_handle: sheissheba
+  google_scholar_id: RP3BU5gAAAAJ&hl
+  graduation_year: 2024
+  thesis:
+    title: "A Microservices Approach to Electroencephalography Research in the Public Cloud"
+    link: https://digitalcommons.odu.edu/computerscience_etds/179/
+  wrapup_blog_post: https://ws-dl.blogspot.com/2024/08/2024-08-01-my-phd-voyage.html
+  initial_employment: Naval Surface Warfare Center  
 - name: Corren McCoy 
   homepage: https://www.linkedin.com/in/correnmccoy/
   twitter_handle: CorrenMcCoy
