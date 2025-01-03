@@ -1,5 +1,15 @@
 phd:
-
+- name: Muntabir Hasan Choudhury
+  homepage: https://www.cs.odu.edu/~cs_mchou001/
+  twitter_handle: TasinChoudhury
+  google_scholar_id: HudTafsAAAAJ&hl
+  graduation_year: 2024
+  thesis: 
+    title: "ETDSuite: A Toolkit To Mine Electronic Theses And Dissertations To Enrich Scholarly Big Data Using Natural Language Processing And Computer Vision"
+    link: TBD
+  wrapup_blog_post: TBD
+  initial_employment: FDA
+  
 - name: Yasith Jayawardana 
   homepage: https://yasith.dev/
   twitter_handle: yasithmilinda
