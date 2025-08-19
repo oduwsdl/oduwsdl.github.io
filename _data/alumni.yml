@@ -200,12 +200,17 @@ phd:
 
 ms:
 
+
+- name: Caleb Bradford
+  homepage: https://www.linkedin.com/in/caleb-bradford-b2652029b/
+  twitter_handle: calebkbradford
+  graduation_year: 2024
+  
 - name: Dominik Soós
   homepage: https://www.cs.odu.edu/~cs_dsoos001/
   twitter_handle: DomSoos
   google_scholar_id: zqSvJesAAAAJ
   graduation_year: 2024
-  advisor: Wu
   thesis:
     title: "Improving LLM Discernibility in Scientific News"
     link: https://digitalcommons.odu.edu/computerscience_etds/178/
