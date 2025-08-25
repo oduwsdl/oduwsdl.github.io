@@ -42,6 +42,7 @@ phd:
     link: https://digitalcommons.odu.edu/computerscience_etds/179/
   wrapup_blog_post: https://ws-dl.blogspot.com/2024/08/2024-08-01-my-phd-voyage.html
   initial_employment: Naval Surface Warfare Center  
+  
 - name: Corren McCoy 
   homepage: https://www.linkedin.com/in/correnmccoy/
   twitter_handle: CorrenMcCoy
@@ -56,6 +57,7 @@ phd:
 - name: Shawn M. Jones
   homepage: https://www.shawnmjones.org/
   twitter_handle: shawnmjones
+  bluesky_handle: shawnmjones.org‬
   google_scholar_id: 97KuWzQAAAAJ
   graduation_year: 2021
   thesis:
@@ -67,6 +69,7 @@ phd:
 - name: Sawood Alam
   homepage: https://www.cs.odu.edu/~salam/
   twitter_handle: ibnesayeed
+  bluesky_handle: ibnesayeed.bsky.social‬
   google_scholar_id: zXdbEQgAAAAJ
   graduation_year: 2020
   thesis:
@@ -78,6 +81,7 @@ phd:
 - name: Mohamed Aturban
   homepage: https://mohamedaturban.com/
   twitter_handle: maturban1
+  bluesky_handle: maturban.bsky.social‬
   google_scholar_id: t97JN78AAAAJ
   graduation_year: 2020
   thesis:
@@ -89,6 +93,7 @@ phd:
 - name: Alexander Nwala
   homepage: https://alexandernwala.com/
   twitter_handle: acnwala
+  bluesky_handle: acnwala.bsky.social
   google_scholar_id: LqrUey4AAAAJ
   graduation_year: 2020
   thesis:
@@ -100,6 +105,7 @@ phd:
 - name: Mat Kelly
   homepage: http://matkelly.com
   twitter_handle: machawk1
+  bluesky_handle: machawk1.bsky.social
   google_scholar_id: ehg7mloAAAAJ
   graduation_year: 2019
   thesis:
@@ -305,6 +311,7 @@ ms:
 - name: Shawn M. Jones
   homepage: https://www.shawnmjones.org/
   twitter_handle: shawnmjones
+  bluesky_handle: shawnmjones.org‬
   google_scholar_id: 97KuWzQAAAAJ
   graduation_year: 2015
   thesis:
@@ -315,6 +322,7 @@ ms:
 - name: Sawood Alam
   homepage: https://www.cs.odu.edu/~salam/
   twitter_handle: ibnesayeed
+  bluesky_handle: ibnesayeed.bsky.social‬
   google_scholar_id: zXdbEQgAAAAJ
   graduation_year: 2013
   thesis:
@@ -325,6 +333,7 @@ ms:
 - name: Mat Kelly
   homepage: http://matkelly.com
   twitter_handle: machawk1
+  bluesky_handle: machawk1.bsky.social‬
   google_scholar_id: ehg7mloAAAAJ
   graduation_year: 2012
   thesis:
