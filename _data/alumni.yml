@@ -1,4 +1,15 @@
 phd:
+- name: Bhanuka Mahanama
+  homepage: https://www.cs.odu.edu/~bhanuka/
+  twitter_handle: mahanama94
+  google_scholar_id: 4gSzSJ0AAAAJ
+  graduation_year: 2025
+  thesis: 
+    title: "Multi-Eyes: Multi-User Eye Tracking Using Commodity Hardware"
+    link: https://digitalcommons.odu.edu/computerscience_etds/188/
+  wrapup_blog_post: https://ws-dl.blogspot.com/2025/10/2025-10-10-six-years-countless.html
+  initial_employment: Old Dominion University
+  
 - name: Muntabir Hasan Choudhury
   homepage: https://www.cs.odu.edu/~cs_mchou001/
   twitter_handle: TasinChoudhury
