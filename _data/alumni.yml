@@ -1,4 +1,15 @@
 phd:
+- name: Kehinde Ajayi
+  homepage: https://www.linkedin.com/in/ajayikehindepeter/
+  twitter_handle: AjayiKehindep
+  google_scholar_id: ib2zhJQAAAAJ
+  graduation_year: 2025
+  thesis: 
+    title: "SCITEUQ: Toward Uncertainty-Aware Complex Scientific Table Data Extraction and Understanding"
+    link: https://digitalcommons.odu.edu/computerscience_etds/
+  wrapup_blog_post: https://ws-dl.blogspot.com/2025/12/2025-12-31-from-tables-to-triumph-phd.html
+  initial_employment: Microsoft AI
+
 - name: Bhanuka Mahanama
   homepage: https://www.cs.odu.edu/~bhanuka/
   twitter_handle: mahanama94
