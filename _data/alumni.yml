@@ -1,4 +1,14 @@
 phd:
+- name: Mohan Krishna Sunkara
+  homepage: https://www.linkedin.com/in/dr-mohan-krishna-sunkara-phd-817ba8ab/
+  twitter_handle: mk344567
+  google_scholar_id: MbQDa7wAAAAJ
+  graduation_year: 2025
+  thesis:
+    title: "Enhancing Non-Visual Interaction With Online User-Generated Content"
+    link: https://doi.org/10.25777/767n-ra09
+  wrapup_blog_post: https://ws-dl.blogspot.com/2026/06/2026-06-19-from-chalk-dust-to-code-my.html
+
 - name: Kehinde Ajayi
   homepage: https://www.linkedin.com/in/ajayikehindepeter/
   twitter_handle: AjayiKehindep
