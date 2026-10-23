@@ -1,4 +1,16 @@
 phd:
+- name: Md Javedul Ferdous
+  homepage: https://www.cs.odu.edu/~cs_mferd002/
+  twitter_handle: jaf_ferdous
+  bluesky_handle: mferdous.bsky.social
+  google_scholar_id: _cuPy0wAAAAJ&hl
+  graduation_year: 2026
+  thesis:
+    title: "Proxy Interfaces for Enhancing Non-Visual Web Usability"
+    link: https://doi.org/10.25777/mk1x-r688
+  wrapup_blog_post: https://ws-dl.blogspot.com/2026/10/WRAPUP-POST-URL.html
+  initial_employment: Ottawa University
+  
 - name: Mohan Krishna Sunkara
   homepage: https://www.linkedin.com/in/dr-mohan-krishna-sunkara-phd-817ba8ab/
   twitter_handle: mk344567
